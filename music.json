@@ -1,5 +1,106 @@
 [
     {
+        "upc": "5059741404733",
+        "type": "ep",
+        "title": "Space Shuttle",
+        "artists": "Monospace",
+        "coverart": "images/coverart/spaceshuttle.jpg",
+        "background": "images/backgrounds/spaceshuttle.jpg",
+        "release_date": "2021-02-12",
+        "platforms": {
+            "spotify": "4iKR1mN7MhqKAdY10HXQqG",
+            "amazon": "B08WJ2MBT2",
+            "youtube": "OLAK5uy_l_BgBYd9jXV8soK-UN9CX9SSS0EVETGvM",
+            "applemusic": "1553153275"
+        },
+        "tracks": [
+            {
+                "isrc": "GBSMU9504271",
+                "title": "Liftoff",
+                "artists": "Monospace",
+                "coverart": "images/coverart/spaceshuttle.jpg",
+                "background": "images/coverart/spaceshuttle.jpg",
+                "release_date": "2021-02-12",
+                "duration": 218,
+                "explicit": false,
+                "platforms": {
+                    "spotify": "2FrgTtR4qpfk4R4so6t1kd",
+                    "youtube": "AsaLkAukrEM",
+                    "amazon": "B08WJ2MBT2"
+                }
+            },
+            {
+                "isrc": "GBSMU9504273",
+                "title": "Take Me Away",
+                "artists": "Monospace",
+                "coverart": "images/coverart/spaceshuttle.jpg",
+                "background": "images/coverart/spaceshuttle.jpg",
+                "release_date": "2021-02-12",
+                "duration": 249,
+                "explicit": false,
+                "platforms": {
+                    "spotify": "2YSmMYP3oFJ56gSh5GBSgP",
+                    "youtube": "v_ox8uPd22g",
+                    "amazon": "B08WJ2MBT2"
+                }
+            },
+            {
+                "isrc": "GBSMU9504276",
+                "title": "Jupiter",
+                "artists": "Monospace & The NGVirus",
+                "coverart": "images/coverart/spaceshuttle.jpg",
+                "background": "images/coverart/spaceshuttle.jpg",
+                "release_date": "2021-02-12",
+                "duration": 288,
+                "explicit": false,
+                "platforms": {
+                    "spotify": "1PTcIBqyRVOuXc1INK6gjE",
+                    "youtube": "hC2lJUP2wJQ",
+                    "amazon": "B08WJ2MBT2"
+                }
+            },
+            {
+                "isrc": "GBSMU9504279",
+                "title": "Liftoff (Extended Mix)",
+                "artists": "Monospace",
+                "coverart": "images/coverart/spaceshuttle.jpg",
+                "background": "images/coverart/spaceshuttle.jpg",
+                "release_date": "2021-02-12",
+                "duration": 299,
+                "explicit": false,
+                "platforms": {
+                    "spotify": "3FasPtKSj08FkLh52Fut3x"
+                }
+            },
+            {
+                "isrc": "GBSMU9504281",
+                "title": "Take Me Away (Extended Mix)",
+                "artists": "Monospace",
+                "coverart": "images/coverart/spaceshuttle.jpg",
+                "background": "images/coverart/spaceshuttle.jpg",
+                "release_date": "2021-02-12",
+                "duration": 318,
+                "explicit": false,
+                "platforms": {
+                    "spotify": "6pZvP0PZedFNb26KzLIMae"
+                }
+            },
+            {
+                "isrc": "GBSMU9504283",
+                "title": "Jupiter (Extended Mix)",
+                "artists": "Monospace & The NGVirus",
+                "coverart": "images/coverart/spaceshuttle.jpg",
+                "background": "images/coverart/spaceshuttle.jpg",
+                "release_date": "2021-02-12",
+                "duration": 389,
+                "explicit": false,
+                "platforms": {
+                    "spotify": "2KMfoKeuX5fpxwN1WJxkCc"
+                }
+            }
+        ]
+    },
+    {
         "upc": "5059654378732",
         "type": "single",
         "title": "Gull",
@@ -8,7 +109,7 @@
         "background": "images/backgrounds/gull.jpg",
         "release_date": "2020-10-24",
         "platforms": {
-
+            "spotify": "1nSlH0xmkDTegiI2GPlcgl"
         },
         "tracks": [
             {
@@ -21,12 +122,11 @@
                 "duration": 299,
                 "explicit": false,
                 "platforms": {
-                    "spotify": "5Vj3fccETXyVNB0GTJPj40",
+                    "spotify": "1RzlgFTfiHZaIzvBN4AIXU",
                     "youtube": "MoricW3tehA",
                     "soundcloud": "sponomace/gull",
                     "deezer": "813349542",
-                    "amazon": "B081QVCFB5",
-                    "tuneplay": "HSTYRPF89B"
+                    "amazon": "B081QVCFB5"
                 }
             },
             {
@@ -39,7 +139,7 @@
                 "duration": 391,
                 "explicit": false,
                 "platforms": {
-                    
+                    "spotify": "3mvTYvOsjrvu34QxK1XJLX"
                 }
             }
         ]
@@ -165,8 +265,7 @@
                 "duration": 197,
                 "explicit": false,
                 "platforms": {
-                    "spotify": "4L3rbXIG6dEeyrJb77DayN",
-                    "tuneplay": "WYEPD982FC"
+                    "spotify": "4L3rbXIG6dEeyrJb77DayN"
                 }
             },
             {
@@ -180,7 +279,6 @@
                 "explicit": false,
                 "platforms": {
                     "spotify": "6skDh6KQRFkI8tzey8qHiy",
-                    "tuneplay": "XNR5F7FHEC",
                     "soundcloud": "sponomace/subspace-dreams"
                 }
             },
@@ -194,8 +292,7 @@
                 "duration": 197,
                 "explicit": false,
                 "platforms": {
-                    "spotify": "1zPBLSejM98vanOSBicEqF",
-                    "tuneplay": "RWGBVYSVSQ"
+                    "spotify": "1zPBLSejM98vanOSBicEqF"
                 }
             },
             {
@@ -209,7 +306,6 @@
                 "explicit": false,
                 "platforms": {
                     "spotify": "2sh01hxd1BkyFXlcTZQEkR",
-                    "tuneplay": "34HRD8U7J7",
                     "soundcloud": "sponomace/subspace-dreams-np"
                 }
             }
@@ -229,8 +325,7 @@
             "deezer": "119821702",
             "amazon": "B081QTV4XR",
             "applemusic": "1488479140",
-            "googleplay": "Bk5peyf7c4gzb2lu43uutxhwj2y",
-            "tuneplay": "N75I3P4E"
+            "googleplay": "Bk5peyf7c4gzb2lu43uutxhwj2y"
         },
         "tracks": [
             {
@@ -247,8 +342,7 @@
                     "youtube": "L1YOYME6Lus",
                     "soundcloud": "sponomace/collapsing-cosmos",
                     "deezer": "813349502",
-                    "amazon": "B081QVLMY9",
-                    "tuneplay": "KP276HXC6N"
+                    "amazon": "B081QVLMY9"
                 }
             },
             {
@@ -265,8 +359,7 @@
                     "youtube": "PVnJdQtM-RA",
                     "soundcloud": "sponomace/intrusive",
                     "deezer": "813349512",
-                    "amazon": "B081R1PRVH",
-                    "tuneplay": "ATJ389VFS4"
+                    "amazon": "B081R1PRVH"
                 }
             },
             {
@@ -283,8 +376,7 @@
                     "youtube": "-BqFMsrzLDs",
                     "soundcloud": "sponomace/attack-of-the-space-crusaders-2019",
                     "deezer": "813349522",
-                    "amazon": "B081QVLSXX",
-                    "tuneplay": "TDI97M66KP"
+                    "amazon": "B081QVLSXX"
                 }
             },
             {
@@ -301,8 +393,7 @@
                     "youtube": "obSXVbBIddU",
                     "soundcloud": "sponomace/lumen",
                     "deezer": "813349532",
-                    "amazon": "B081QVFZGD",
-                    "tuneplay": "8VXKEAN2S7"
+                    "amazon": "B081QVFZGD"
                 }
             },
             {
@@ -319,8 +410,7 @@
                     "youtube": "MoricW3tehA",
                     "soundcloud": "sponomace/gull",
                     "deezer": "813349542",
-                    "amazon": "B081QVCFB5",
-                    "tuneplay": "HSTYRPF89B"
+                    "amazon": "B081QVCFB5"
                 }
             },
             {
@@ -337,8 +427,7 @@
                     "youtube": "5VhApicc8qo",
                     "soundcloud": "sponomace/melting-moonlight",
                     "deezer": "813349552",
-                    "amazon": "B081QVK1GS",
-                    "tuneplay": "BIYFMSHQ65"
+                    "amazon": "B081QVK1GS"
                 }
             },
             {
@@ -355,8 +444,7 @@
                     "youtube": "pTYMqgWaQSw",
                     "soundcloud": "sponomace/intrusive-extended-mix",
                     "deezer": "813349562",
-                    "amazon": "B081QV6Q9K",
-                    "tuneplay": "1SQWR7TVSG"
+                    "amazon": "B081QV6Q9K"
                 }
             },
             {
@@ -373,8 +461,7 @@
                     "youtube": "k7aYmhAB1zo",
                     "soundcloud": "sponomace/attack-of-the-space-crusaders-2019-extended",
                     "deezer": "813349572",
-                    "amazon": "B081QVBMX2",
-                    "tuneplay": "8U6ABYE7X4"
+                    "amazon": "B081QVBMX2"
                 }
             }
         ]
@@ -411,8 +498,7 @@
                     "youtube": "OrktdzdFl3E",
                     "soundcloud": "ioulianos/monospace-attack-of-the-space-crusaders-ioulianos-remix-1",
                     "deezer": "681532672",
-                    "amazon": "B07S1QDTFW",
-                    "tuneplay": "M12QWTX5E5"
+                    "amazon": "B07S1QDTFW"
                 }
             }
         ]
@@ -449,8 +535,7 @@
                     "youtube": "lHb2bewsy6w",
                     "soundcloud": "sponomace/attack-of-the-space-crusaders",
                     "deezer": "608643422",
-                    "amazon": "B07MGK3X27",
-                    "tuneplay": "HZP1SAI8EU"
+                    "amazon": "B07MGK3X27"
                 }
             },
             {
@@ -467,15 +552,14 @@
                     "youtube": "aTsVfhN5IEs",
                     "soundcloud": "sponomace/attack-of-the-space-crusaders-extended-mix",
                     "deezer": "608643432",
-                    "amazon": "B07M9CJJGZ",
-                    "tuneplay": "UQ8PC1IHDN"
+                    "amazon": "B07M9CJJGZ"
                 }
             }
         ]
     },
     {
         "upc": "5057917869720",
-        "type": "ep",
+        "type": "maxi-single",
         "title": "Exploration of the Phantom Streak",
         "artists": "Monospace & The NGVirus",
         "coverart": "images/coverart/explorationofthephantomstreak.jpg",
@@ -488,8 +572,7 @@
             "amazon": "B07S1Y1QM8",
             "applemusic": "1464884697",
             "soundcloud": "sponomace/sets/exploration-of-the-phantom-streak",
-            "googleplay": "Bbtsm3px5zerdz6pmr5z2ffvlvi",
-            "tuneplay": "K59FCK77"
+            "googleplay": "Bbtsm3px5zerdz6pmr5z2ffvlvi"
         },
         "tracks": [
             {
@@ -506,8 +589,7 @@
                     "youtube": "soBDnVdu24o",
                     "soundcloud": "sponomace/exploration-of-the-phantom-streak",
                     "deezer": "683585812",
-                    "amazon": "B07S598GDR",
-                    "tuneplay": "4VK1AMTD9P"
+                    "amazon": "B07S598GDR"
                 }
             },
             {
@@ -524,8 +606,7 @@
                     "youtube": "OEEEFOetALc",
                     "soundcloud": "ioulianos/monospace-exploration-of-the-phantom-streak-ioulianos-remix",
                     "deezer": "683585822",
-                    "amazon": "B07S58WMHX",
-                    "tuneplay": "8BMYU2Q7D1"
+                    "amazon": "B07S58WMHX"
                 }
             },
             {
@@ -542,8 +623,7 @@
                     "youtube": "Q3sfn7mOQOo",
                     "soundcloud": "freekbes/monospace-exploration-of-the-phantom-streak-freeks-mix",
                     "deezer": "683585832",
-                    "amazon": "B07RZX284J",
-                    "tuneplay": "G4B5ISVNFF"
+                    "amazon": "B07RZX284J"
                 }
             },
             {
@@ -560,8 +640,7 @@
                     "youtube": "O6prS4ir-rw",
                     "soundcloud": "sponomace/exploration-of-the-phantom-streak-brain-stain-remix",
                     "deezer": "683585842",
-                    "amazon": "B07S6T469M",
-                    "tuneplay": "NYFE7PMFZK"
+                    "amazon": "B07S6T469M"
                 }
             }
         ]
@@ -590,8 +669,7 @@
                 "explicit": false,
                 "platforms": {
                     "spotify": "5TQLjge4wBqGJ68h4S8PwM",
-                    "soundcloud": "sponomace/imagine-monospace-remix",
-                    "tuneplay": "UP5J9CA9CR"
+                    "soundcloud": "sponomace/imagine-monospace-remix"
                 }
             }
         ]
@@ -624,8 +702,7 @@
                     "youtube": "l4SxYC2hBek",
                     "soundcloud": "sponomace/liberation-monospace-remix",
                     "deezer": "774562902",
-                    "amazon": "B07YTLHR1J",
-                    "tuneplay": "ITAR4GUMFE"
+                    "amazon": "B07YTLHR1J"
                 }
             }
         ]
