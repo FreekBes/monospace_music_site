@@ -15,8 +15,6 @@
                 return "https://music.apple.com/ca/album/".$id;
             case "googleplay":
                 return "https://play.google.com/store/music/album/?id=".$id;
-            case "tuneplay":
-                return "https://www.tuneplay.net/?type=album&id=".$id;
         }
     }
 
@@ -32,8 +30,6 @@
                 return "https://www.deezer.com/track/".$id;
             case "amazon":
                 return "https://www.amazon.com/dp/".$id;
-            case "tuneplay":
-                return "https://www.tuneplay.net/?id=".$id;
         }
     }
 
@@ -53,8 +49,6 @@
                 return ["Apple Music", "images/icons/apple.png", "Play via"];
             case "googleplay":
                 return ["Google Play", "images/icons/gplay.png", "Buy on"];
-            case "tuneplay":
-                return ["TunePlay", "images/icons/tuneplay.png", "Play via"];
             default:
                 return [ucfirst($service), "images/icons/play.png", "Play via"];
         }
@@ -155,6 +149,8 @@
                 return "album";
             case "single":
                 return "single";
+            case "maxi-single":
+                return "maxi-single";
             case "ep":
                 return "EP";
             case "featured":
