@@ -15,6 +15,9 @@
                 return "https://music.apple.com/ca/album/".$id;
             case "googleplay":
                 return "https://play.google.com/store/music/album/?id=".$id;
+            case "bandcamp":
+            default:
+                return $id;
         }
     }
 
@@ -30,6 +33,9 @@
                 return "https://www.deezer.com/track/".$id;
             case "amazon":
                 return "https://www.amazon.com/dp/".$id;
+            case "bandcamp":
+            default:
+                return $id;
         }
     }
 
@@ -49,6 +55,8 @@
                 return ["Apple Music", "images/icons/apple.png", "Play via"];
             case "googleplay":
                 return ["Google Play", "images/icons/gplay.png", "Buy on"];
+            case "bandcamp":
+                return ["Bandcamp", "images/icons/bandcamp.png", "Buy on"];
             default:
                 return [ucfirst($service), "images/icons/play.png", "Play via"];
         }

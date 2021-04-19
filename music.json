@@ -1,710 +1,733 @@
 [
-    {
-        "upc": "5059741404733",
-        "type": "ep",
-        "title": "Space Shuttle",
-        "artists": "Monospace",
-        "coverart": "images/coverart/spaceshuttle.jpg",
-        "background": "images/backgrounds/spaceshuttle.jpg",
-        "release_date": "2021-02-12",
-        "platforms": {
-            "spotify": "4iKR1mN7MhqKAdY10HXQqG",
-            "amazon": "B08WJ2MBT2",
-            "youtube": "OLAK5uy_l_BgBYd9jXV8soK-UN9CX9SSS0EVETGvM",
-            "applemusic": "1553153275"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU9504271",
-                "title": "Liftoff",
-                "artists": "Monospace",
-                "coverart": "images/coverart/spaceshuttle.jpg",
-                "background": "images/coverart/spaceshuttle.jpg",
-                "release_date": "2021-02-12",
-                "duration": 218,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "2FrgTtR4qpfk4R4so6t1kd",
-                    "youtube": "AsaLkAukrEM",
-                    "amazon": "B08WJ2MBT2"
-                }
-            },
-            {
-                "isrc": "GBSMU9504273",
-                "title": "Take Me Away",
-                "artists": "Monospace",
-                "coverart": "images/coverart/spaceshuttle.jpg",
-                "background": "images/coverart/spaceshuttle.jpg",
-                "release_date": "2021-02-12",
-                "duration": 249,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "2YSmMYP3oFJ56gSh5GBSgP",
-                    "youtube": "v_ox8uPd22g",
-                    "amazon": "B08WJ2MBT2"
-                }
-            },
-            {
-                "isrc": "GBSMU9504276",
-                "title": "Jupiter",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/spaceshuttle.jpg",
-                "background": "images/coverart/spaceshuttle.jpg",
-                "release_date": "2021-02-12",
-                "duration": 288,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "1PTcIBqyRVOuXc1INK6gjE",
-                    "youtube": "hC2lJUP2wJQ",
-                    "amazon": "B08WJ2MBT2"
-                }
-            },
-            {
-                "isrc": "GBSMU9504279",
-                "title": "Liftoff (Extended Mix)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/spaceshuttle.jpg",
-                "background": "images/coverart/spaceshuttle.jpg",
-                "release_date": "2021-02-12",
-                "duration": 299,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "3FasPtKSj08FkLh52Fut3x"
-                }
-            },
-            {
-                "isrc": "GBSMU9504281",
-                "title": "Take Me Away (Extended Mix)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/spaceshuttle.jpg",
-                "background": "images/coverart/spaceshuttle.jpg",
-                "release_date": "2021-02-12",
-                "duration": 318,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "6pZvP0PZedFNb26KzLIMae"
-                }
-            },
-            {
-                "isrc": "GBSMU9504283",
-                "title": "Jupiter (Extended Mix)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/spaceshuttle.jpg",
-                "background": "images/coverart/spaceshuttle.jpg",
-                "release_date": "2021-02-12",
-                "duration": 389,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "2KMfoKeuX5fpxwN1WJxkCc"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5059654378732",
-        "type": "single",
-        "title": "Gull",
-        "artists": "Monospace & Ioulianos",
-        "coverart": "images/coverart/gull.jpg",
-        "background": "images/backgrounds/gull.jpg",
-        "release_date": "2020-10-24",
-        "platforms": {
-            "spotify": "1nSlH0xmkDTegiI2GPlcgl"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU7164832",
-                "title": "Gull",
-                "artists": "Monospace & Ioulianos",
-                "coverart": "images/coverart/gull.jpg",
-                "background": "images/backgrounds/gull.jpg",
-                "release_date": "2019-11-29",
-                "duration": 299,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "1RzlgFTfiHZaIzvBN4AIXU",
-                    "youtube": "MoricW3tehA",
-                    "soundcloud": "sponomace/gull",
-                    "deezer": "813349542",
-                    "amazon": "B081QVCFB5"
-                }
-            },
-            {
-                "isrc": "GBSMU8810162",
-                "title": "Gull (More Techno Edit)",
-                "artists": "Monospace & Ioulianos",
-                "coverart": "images/coverart/gull.jpg",
-                "background": "images/backgrounds/gull.jpg",
-                "release_date": "2020-10-24",
-                "duration": 391,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "3mvTYvOsjrvu34QxK1XJLX"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5059594777220",
-        "type": "single",
-        "title": "Melting Moonlight (Brain Stain Remix)",
-        "artists": "Monospace",
-        "coverart": "images/coverart/meltingmoonlightbrainstain.jpg",
-        "background": "images/backgrounds/meltingmoonlightbrainstain.jpg",
-        "release_date": "2020-08-09",
-        "platforms": {
-            "spotify": "6ZOW2BkJMO7IClwi9UmkrS"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU8225359",
-                "title": "Melting Moonlight (Brain Stain Remix)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/meltingmoonlightbrainstain.jpg",
-                "background": "images/backgrounds/meltingmoonlightbrainstain.jpg",
-                "release_date": "2020-08-09",
-                "duration": 251,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "6zFkYGDFsIUcjJ6rn1U6Kc",
-                    "youtube": "1lmlVAPC3II"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5059594558447",
-        "type": "single",
-        "title": "Lumen (Ioulianos Remix)",
-        "artists": "Monospace & Ross Slotboom",
-        "coverart": "images/coverart/lumenioulianosremix.jpg",
-        "background": "images/backgrounds/lumenioulianosremix.jpg",
-        "release_date": "2020-08-02",
-        "platforms": {
-            "spotify": "48l9BYR7hocAmv2CflwIZi"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU8225249",
-                "title": "Lumen (Ioulianos Remix)",
-                "artists": "Monospace & Ross Slotboom",
-                "coverart": "images/coverart/lumenioulianosremix.jpg",
-                "background": "images/backgrounds/lumenioulianosremix.jpg",
-                "release_date": "2020-08-02",
-                "duration": 350,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "7byhUae0xMy6YdIkPCzoZO",
-                    "youtube": "0nqkarGkp8U"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5059594436639",
-        "type": "single",
-        "title": "Melting Moonlight (Ross Slotboom Remix)",
-        "artists": "Monospace",
-        "coverart": "images/coverart/meltingmoonlightrossslotboomremix.jpg",
-        "background": "images/backgrounds/meltingmoonlightrossslotboomremix.jpg",
-        "release_date": "2020-07-26",
-        "platforms": {
-            "spotify": "7k6jAp9DmuGmyscfUYXAK8"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU8225145",
-                "title": "Melting Moonlight (Ross Slotboom Remix)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/meltingmoonlightrossslotboomremix.jpg",
-                "background": "images/backgrounds/meltingmoonlightrossslotboomremix.jpg",
-                "release_date": "2020-07-26",
-                "duration": 174,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "0EgDY1xSV0Wnw8pWOZ3Bkl",
-                    "youtube": "CFwErZFW5sQ"
-                }
-            },
-            {
-                "isrc": "GBSMU8225166",
-                "title": "Melting Moonlight (Ross Slotboom Extended Remix)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/meltingmoonlightrossslotboomremix.jpg",
-                "background": "images/backgrounds/meltingmoonlightrossslotboomremix.jpg",
-                "release_date": "2020-07-26",
-                "duration": 317,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "1XA1VVtFXgGYc1t2bLmdRb",
-                    "youtube": "yIz_YLNTRHs"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5059594267318",
-        "type": "single",
-        "title": "Subspace Dreams",
-        "artists": "Monospace",
-        "coverart": "images/coverart/subspacedreams.jpg",
-        "background": "images/backgrounds/subspacedreams.jpg",
-        "release_date": "2020-05-16",
-        "platforms": {
-            "spotify": "3Bz7Aga5kRbEXoa0JPNsoP",
-            "soundcloud": "sponomace/sets/subspace-dreams"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU8172029",
-                "title": "Subspace Dreams (Radio Edit)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/subspacedreams.jpg",
-                "background": "images/backgrounds/subspacedreams.jpg",
-                "release_date": "2020-05-16",
-                "duration": 197,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "4L3rbXIG6dEeyrJb77DayN"
-                }
-            },
-            {
-                "isrc": "GBSMU8172035",
-                "title": "Subspace Dreams (Original Mix)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/subspacedreams.jpg",
-                "background": "images/backgrounds/subspacedreams.jpg",
-                "release_date": "2020-05-16",
-                "duration": 357,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "6skDh6KQRFkI8tzey8qHiy",
-                    "soundcloud": "sponomace/subspace-dreams"
-                }
-            },
-            {
-                "isrc": "GBSMU8172044",
-                "title": "Subspace Dreams (No-Piano Radio Edit)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/subspacedreams.jpg",
-                "background": "images/backgrounds/subspacedreams.jpg",
-                "release_date": "2020-05-16",
-                "duration": 197,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "1zPBLSejM98vanOSBicEqF"
-                }
-            },
-            {
-                "isrc": "GBSMU8172050",
-                "title": "Subspace Dreams (Original No-Piano Mix)",
-                "artists": "Monospace",
-                "coverart": "images/coverart/subspacedreams.jpg",
-                "background": "images/backgrounds/subspacedreams.jpg",
-                "release_date": "2020-05-16",
-                "duration": 357,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "2sh01hxd1BkyFXlcTZQEkR",
-                    "soundcloud": "sponomace/subspace-dreams-np"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5059366501374",
-        "type": "album",
-        "title": "Intrusive",
-        "artists": "Monospace",
-        "coverart": "images/coverart/intrusive.jpg",
-        "background": "images/backgrounds/intrusive.png",
-        "release_date": "2019-11-29",
-        "platforms": {
-            "spotify": "74e8NfXYGwXO7st0Sl4XFP",
-            "youtube": "OLAK5uy_kbJGFoNf63rCHSZweRbjgAU26Ogxo0WmM",
-            "deezer": "119821702",
-            "amazon": "B081QTV4XR",
-            "applemusic": "1488479140",
-            "googleplay": "Bk5peyf7c4gzb2lu43uutxhwj2y"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU7164706",
-                "title": "Collapsing Cosmos",
-                "artists": "Monospace",
-                "coverart": "images/coverart/collapsingcosmos.jpg",
-                "background": "images/backgrounds/collapsingcosmos.jpg",
-                "release_date": "2019-11-29",
-                "duration": 255,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "2qdaATjaAyFtGPeOy1bA4W",
-                    "youtube": "L1YOYME6Lus",
-                    "soundcloud": "sponomace/collapsing-cosmos",
-                    "deezer": "813349502",
-                    "amazon": "B081QVLMY9"
-                }
-            },
-            {
-                "isrc": "GBSMU7164738",
-                "title": "Intrusive",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/intrusive.jpg",
-                "background": "images/backgrounds/intrusive.png",
-                "release_date": "2019-11-29",
-                "duration": 243,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "4uMvb65UswtY96vS61vnKH",
-                    "youtube": "PVnJdQtM-RA",
-                    "soundcloud": "sponomace/intrusive",
-                    "deezer": "813349512",
-                    "amazon": "B081R1PRVH"
-                }
-            },
-            {
-                "isrc": "GBSMU7164769",
-                "title": "Attack of the Space Crusaders (2019 Remaster)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/attackofthespacecrusadersremaster.jpg",
-                "background": "images/backgrounds/attackofthespacecrusaders.jpg",
-                "release_date": "2019-11-29",
-                "duration": 295,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "75HoE2gn6fkMOJMA5PmOtk",
-                    "youtube": "-BqFMsrzLDs",
-                    "soundcloud": "sponomace/attack-of-the-space-crusaders-2019",
-                    "deezer": "813349522",
-                    "amazon": "B081QVLSXX"
-                }
-            },
-            {
-                "isrc": "GBSMU7164786",
-                "title": "Lumen",
-                "artists": "Monospace & Ross Slotboom",
-                "coverart": "images/coverart/lumen.jpg",
-                "background": "images/backgrounds/lumen.jpg",
-                "release_date": "2019-11-29",
-                "duration": 220,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "6dBdx07UHtRAPJla7mNqYn",
-                    "youtube": "obSXVbBIddU",
-                    "soundcloud": "sponomace/lumen",
-                    "deezer": "813349532",
-                    "amazon": "B081QVFZGD"
-                }
-            },
-            {
-                "isrc": "GBSMU7164832",
-                "title": "Gull",
-                "artists": "Monospace & Ioulianos",
-                "coverart": "images/coverart/gull.jpg",
-                "background": "images/backgrounds/gull.jpg",
-                "release_date": "2019-11-29",
-                "duration": 299,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "5Vj3fccETXyVNB0GTJPj40",
-                    "youtube": "MoricW3tehA",
-                    "soundcloud": "sponomace/gull",
-                    "deezer": "813349542",
-                    "amazon": "B081QVCFB5"
-                }
-            },
-            {
-                "isrc": "GBSMU7164861",
-                "title": "Melting Moonlight",
-                "artists": "Monospace",
-                "coverart": "images/coverart/meltingmoonlight.jpg",
-                "background": "images/backgrounds/meltingmoonlight.jpg",
-                "release_date": "2019-11-29",
-                "duration": 240,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "547x6slZGa1JeFCeho2hra",
-                    "youtube": "5VhApicc8qo",
-                    "soundcloud": "sponomace/melting-moonlight",
-                    "deezer": "813349552",
-                    "amazon": "B081QVK1GS"
-                }
-            },
-            {
-                "isrc": "GBSMU7164883",
-                "title": "Intrusive (Extended Mix)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/intrusive.jpg",
-                "background": "images/backgrounds/intrusive.png",
-                "release_date": "2019-11-29",
-                "duration": 364,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "3HdY7BD6DeEfE6e8lR9z0r",
-                    "youtube": "pTYMqgWaQSw",
-                    "soundcloud": "sponomace/intrusive-extended-mix",
-                    "deezer": "813349562",
-                    "amazon": "B081QV6Q9K"
-                }
-            },
-            {
-                "isrc": "GBSMU7164945",
-                "title": "Attack of the Space Crusaders (2019 Extended Remaster)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/attackofthespacecrusadersremaster.jpg",
-                "background": "images/backgrounds/attackofthespacecrusaders.jpg",
-                "release_date": "2019-11-29",
-                "duration": 417,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "6snH8UQA6pyEN9ISYVhCL3",
-                    "youtube": "k7aYmhAB1zo",
-                    "soundcloud": "sponomace/attack-of-the-space-crusaders-2019-extended",
-                    "deezer": "813349572",
-                    "amazon": "B081QVBMX2"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5059137525486",
-        "type": "single",
-        "title": "Attack of the Space Crusaders (Ioulianos Remix)",
-        "artists": "Monospace & The NGVirus",
-        "coverart": "images/coverart/attackofthespacecrusadersioulianos.jpg",
-        "background": null,
-        "release_date": "2019-02-11",
-        "platforms": {
-            "spotify": "2zZRhGnXf4gS3hvcTHYn3p",
-            "youtube": "OLAK5uy_k0POG_UiSkc3blTpZ842sSrUUIO6xsM0g",
-            "amazon": "B07S1QDTFW",
-            "applemusic": "1464579584",
-            "googleplay": "Broeqxwvov6tsj4mjhhpnwuxufm",
-            "soundcloud": "sets/attack-of-the-space-crusaders-ioulianos",
-            "deezer": "97267952"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU6398867",
-                "title": "Attack of the Space Crusaders (Ioulianos Remix)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/attackofthespacecrusadersioulianos.jpg",
-                "background": null,
-                "release_date": "2019-02-11",
-                "duration": 510,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "0abKE2ArjqLOfWZtmYX5aQ",
-                    "youtube": "OrktdzdFl3E",
-                    "soundcloud": "ioulianos/monospace-attack-of-the-space-crusaders-ioulianos-remix-1",
-                    "deezer": "681532672",
-                    "amazon": "B07S1QDTFW"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5057917780582",
-        "type": "single",
-        "title": "Attack of the Space Crusaders",
-        "artists": "Monospace & The NGVirus",
-        "coverart": "images/coverart/attackofthespacecrusadersoriginal.jpg",
-        "background": null,
-        "release_date": "2018-10-13",
-        "platforms": {
-            "spotify": "6hmJqoLB68RKwuWzv1q7Ji",
-            "youtube": "OLAK5uy_lRccTMhfCPNkCe4rWCKkcxTXQrQysG0vw",
-            "soundcloud": "sponomace/sets/attack-of-the-space-crusaders",
-            "deezer": "82610792",
-            "amazon": "B07MMZ7C84",
-            "applemusic": "1448245536",
-            "googleplay": "Bfcpln5owgh3meiuzun7u556ajm"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU5892576",
-                "title": "Attack of the Space Crusaders",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/attackofthespacecrusadersoriginal.jpg",
-                "background": null,
-                "release_date": "2018-10-13",
-                "duration": 309,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "2omf5Ms3V8ghSfZ8ByEmOJ",
-                    "youtube": "lHb2bewsy6w",
-                    "soundcloud": "sponomace/attack-of-the-space-crusaders",
-                    "deezer": "608643422",
-                    "amazon": "B07MGK3X27"
-                }
-            },
-            {
-                "isrc": "GBSMU5892584",
-                "title": "Attack of the Space Crusaders (Extended Mix)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/attackofthespacecrusadersoriginal.jpg",
-                "background": null,
-                "release_date": "2018-12-15",
-                "duration": 431,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "6HYOg4HZewGEnXpwKDPPA1",
-                    "youtube": "aTsVfhN5IEs",
-                    "soundcloud": "sponomace/attack-of-the-space-crusaders-extended-mix",
-                    "deezer": "608643432",
-                    "amazon": "B07M9CJJGZ"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5057917869720",
-        "type": "maxi-single",
-        "title": "Exploration of the Phantom Streak",
-        "artists": "Monospace & The NGVirus",
-        "coverart": "images/coverart/explorationofthephantomstreak.jpg",
-        "background": null,
-        "release_date": "2018-10-07",
-        "platforms": {
-            "spotify": "5yJkbFGz2tcVyDi0X03RcN",
-            "youtube": "OLAK5uy_kEcZPkY-rY3F3I_WUMnLNBsubeKOJJybY",
-            "deezer": "97731212",
-            "amazon": "B07S1Y1QM8",
-            "applemusic": "1464884697",
-            "soundcloud": "sponomace/sets/exploration-of-the-phantom-streak",
-            "googleplay": "Bbtsm3px5zerdz6pmr5z2ffvlvi"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU6409256",
-                "title": "Exploration of the Phantom Streak",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/explorationofthephantomstreak.jpg",
-                "background": null,
-                "release_date": "2018-10-07",
-                "duration": 285,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "2JUUoRNYl0FogoeyyVSBE0",
-                    "youtube": "soBDnVdu24o",
-                    "soundcloud": "sponomace/exploration-of-the-phantom-streak",
-                    "deezer": "683585812",
-                    "amazon": "B07S598GDR"
-                }
-            },
-            {
-                "isrc": "GBSMU6409257",
-                "title": "Exploration of the Phantom Streak (Ioulianos Remix)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/explorationofthephantomstreakioulianos.jpg",
-                "background": null,
-                "release_date": "2018-11-10",
-                "duration": 377,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "362dnTErz9S5loCD6sxyJW",
-                    "youtube": "OEEEFOetALc",
-                    "soundcloud": "ioulianos/monospace-exploration-of-the-phantom-streak-ioulianos-remix",
-                    "deezer": "683585822",
-                    "amazon": "B07S58WMHX"
-                }
-            },
-            {
-                "isrc": "GBSMU6409258",
-                "title": "Exploration of the Phantom Streak (Freek Bes Remix)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/explorationofthephantomstreakfreekbes.jpg",
-                "background": null,
-                "release_date": "2018-11-10",
-                "duration": 285,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "1OVSI8fmcXT6gGujxM0QWS",
-                    "youtube": "Q3sfn7mOQOo",
-                    "soundcloud": "freekbes/monospace-exploration-of-the-phantom-streak-freeks-mix",
-                    "deezer": "683585832",
-                    "amazon": "B07RZX284J"
-                }
-            },
-            {
-                "isrc": "GBSMU6409272",
-                "title": "Exploration of the Phantom Streak (Brain Stain Remix)",
-                "artists": "Monospace & The NGVirus",
-                "coverart": "images/coverart/explorationofthephantomstreakbrainstain.jpg",
-                "background": null,
-                "release_date": "2018-11-10",
-                "duration": 185,
-                "explicit": true,
-                "platforms": {
-                    "spotify": "5KfZ8N1uPpCXOe61s0BLLe",
-                    "youtube": "O6prS4ir-rw",
-                    "soundcloud": "sponomace/exploration-of-the-phantom-streak-brain-stain-remix",
-                    "deezer": "683585842",
-                    "amazon": "B07S6T469M"
-                }
-            }
-        ]
-    },
-    {
-        "upc": "5059366266907",
-        "type": "single",
-        "title": "Imagine (Monospace & The NGVirus Remix)",
-        "artists": "SHIFTIE",
-        "coverart": "images/coverart/imagineremix.jpg",
-        "background": null,
-        "release_date": "2018-08-20",
-        "platforms": {
-            "spotify": "2usTc3oawRQaDyM0PI5hcn",
-            "soundcloud": "sets/imagine-monospace-remix"
-        },
-        "tracks": [
-            {
-                "isrc": "GBSMU7186556",
-                "title": "Imagine (Monospace & The NGVirus Remix)",
-                "artists": "SHIFTIE",
-                "coverart": "images/coverart/imagineremix.jpg",
-                "background": null,
-                "release_date": "2018-08-20",
-                "duration": 331,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "5TQLjge4wBqGJ68h4S8PwM",
-                    "soundcloud": "sponomace/imagine-monospace-remix"
-                }
-            }
-        ]
-    },
-    {
-        "upc": null,
-        "type": "featured",
-        "title": "Liberation",
-        "artists": "Julian Lieftink",
-        "coverart": "images/coverart/liberationremix.jpg",
-        "background": null,
-        "release_date": "2018-06-15",
-        "platforms": {
-            "spotify": "6MuTQML22PJNXURL9NhoWU",
-            "deezer": "114662892",
-            "amazon": "B07YTLHR1J"
-        },
-        "tracks": [
-            {
-                "isrc": null,
-                "title": "Liberation (Monospace & The NGVirus Remix)",
-                "artists": "Julian Lieftink",
-                "coverart": "images/coverart/liberationremix.jpg",
-                "background": null,
-                "release_date": "2018-06-15",
-                "duration": 370,
-                "explicit": false,
-                "platforms": {
-                    "spotify": "6OBVHxuck06KCNOxZX4nw4",
-                    "youtube": "l4SxYC2hBek",
-                    "soundcloud": "sponomace/liberation-monospace-remix",
-                    "deezer": "774562902",
-                    "amazon": "B07YTLHR1J"
-                }
-            }
-        ]
-    }
+	{
+		"upc": "5059741404733",
+		"type": "ep",
+		"title": "Space Shuttle",
+		"artists": "Monospace",
+		"coverart": "images/coverart/spaceshuttle.jpg",
+		"background": "images/backgrounds/spaceshuttle.jpg",
+		"release_date": "2021-02-12",
+		"platforms": {
+			"spotify": "4iKR1mN7MhqKAdY10HXQqG",
+			"bandcamp": "https://sponomace.bandcamp.com/album/space-shuttle",
+			"amazon": "B08WJ2MBT2",
+			"youtube": "OLAK5uy_l_BgBYd9jXV8soK-UN9CX9SSS0EVETGvM",
+			"applemusic": "1553153275"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU9504271",
+				"title": "Liftoff",
+				"artists": "Monospace",
+				"coverart": "images/coverart/spaceshuttle.jpg",
+				"background": "images/coverart/spaceshuttle.jpg",
+				"release_date": "2021-02-12",
+				"duration": 218,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2FrgTtR4qpfk4R4so6t1kd",
+					"bandcamp": "https://sponomace.bandcamp.com/track/liftoff",
+					"youtube": "AsaLkAukrEM",
+					"amazon": "B08WJ2MBT2"
+				}
+			},
+			{
+				"isrc": "GBSMU9504273",
+				"title": "Take Me Away",
+				"artists": "Monospace",
+				"coverart": "images/coverart/spaceshuttle.jpg",
+				"background": "images/coverart/spaceshuttle.jpg",
+				"release_date": "2021-02-12",
+				"duration": 249,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2YSmMYP3oFJ56gSh5GBSgP",
+					"bandcamp": "https://sponomace.bandcamp.com/track/take-me-away",
+					"youtube": "v_ox8uPd22g",
+					"amazon": "B08WJ2MBT2"
+				}
+			},
+			{
+				"isrc": "GBSMU9504276",
+				"title": "Jupiter",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/spaceshuttle.jpg",
+				"background": "images/coverart/spaceshuttle.jpg",
+				"release_date": "2021-02-12",
+				"duration": 288,
+				"explicit": false,
+				"platforms": {
+					"spotify": "1PTcIBqyRVOuXc1INK6gjE",
+					"bandcamp": "https://sponomace.bandcamp.com/track/jupiter",
+					"youtube": "hC2lJUP2wJQ",
+					"amazon": "B08WJ2MBT2"
+				}
+			},
+			{
+				"isrc": "GBSMU9504279",
+				"title": "Liftoff (Extended Mix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/spaceshuttle.jpg",
+				"background": "images/coverart/spaceshuttle.jpg",
+				"release_date": "2021-02-12",
+				"duration": 299,
+				"explicit": false,
+				"platforms": {
+					"spotify": "3FasPtKSj08FkLh52Fut3x",
+					"bandcamp": "https://sponomace.bandcamp.com/track/liftoff-extended-mix"
+				}
+			},
+			{
+				"isrc": "GBSMU9504281",
+				"title": "Take Me Away (Extended Mix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/spaceshuttle.jpg",
+				"background": "images/coverart/spaceshuttle.jpg",
+				"release_date": "2021-02-12",
+				"duration": 318,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6pZvP0PZedFNb26KzLIMae",
+					"bandcamp": "https://sponomace.bandcamp.com/track/take-me-away-extended-mix"
+				}
+			},
+			{
+				"isrc": "GBSMU9504283",
+				"title": "Jupiter (Extended Mix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/spaceshuttle.jpg",
+				"background": "images/coverart/spaceshuttle.jpg",
+				"release_date": "2021-02-12",
+				"duration": 389,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2KMfoKeuX5fpxwN1WJxkCc",
+					"bandcamp": "https://sponomace.bandcamp.com/track/jupiter-extended-mix"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059654378732",
+		"type": "single",
+		"title": "Gull",
+		"artists": "Monospace & Ioulianos",
+		"coverart": "images/coverart/gull.jpg",
+		"background": "images/backgrounds/gull.jpg",
+		"release_date": "2020-10-24",
+		"platforms": {
+			"spotify": "1nSlH0xmkDTegiI2GPlcgl"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU7164832",
+				"title": "Gull",
+				"artists": "Monospace & Ioulianos",
+				"coverart": "images/coverart/gull.jpg",
+				"background": "images/backgrounds/gull.jpg",
+				"release_date": "2019-11-29",
+				"duration": 299,
+				"explicit": false,
+				"platforms": {
+					"spotify": "1RzlgFTfiHZaIzvBN4AIXU",
+					"bandcamp": "https://sponomace.bandcamp.com/track/gull",
+					"youtube": "MoricW3tehA",
+					"soundcloud": "sponomace/gull",
+					"deezer": "813349542",
+					"amazon": "B081QVCFB5"
+				}
+			},
+			{
+				"isrc": "GBSMU8810162",
+				"title": "Gull (More Techno Edit)",
+				"artists": "Monospace & Ioulianos",
+				"coverart": "images/coverart/gull.jpg",
+				"background": "images/backgrounds/gull.jpg",
+				"release_date": "2020-10-24",
+				"duration": 391,
+				"explicit": false,
+				"platforms": {
+					"spotify": "3mvTYvOsjrvu34QxK1XJLX",
+					"bandcamp": "https://sponomace.bandcamp.com/track/gull-more-techno-edit-2"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059594777220",
+		"type": "single",
+		"title": "Melting Moonlight (Brain Stain Remix)",
+		"artists": "Monospace",
+		"coverart": "images/coverart/meltingmoonlightbrainstain.jpg",
+		"background": "images/backgrounds/meltingmoonlightbrainstain.jpg",
+		"release_date": "2020-08-09",
+		"platforms": {
+			"spotify": "6ZOW2BkJMO7IClwi9UmkrS"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU8225359",
+				"title": "Melting Moonlight (Brain Stain Remix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/meltingmoonlightbrainstain.jpg",
+				"background": "images/backgrounds/meltingmoonlightbrainstain.jpg",
+				"release_date": "2020-08-09",
+				"duration": 251,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6zFkYGDFsIUcjJ6rn1U6Kc",
+					"bandcamp": "https://sponomace.bandcamp.com/track/melting-moonlight-brain-stain-remix",
+					"youtube": "1lmlVAPC3II"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059594558447",
+		"type": "single",
+		"title": "Lumen (Ioulianos Remix)",
+		"artists": "Monospace & Ross Slotboom",
+		"coverart": "images/coverart/lumenioulianosremix.jpg",
+		"background": "images/backgrounds/lumenioulianosremix.jpg",
+		"release_date": "2020-08-02",
+		"platforms": {
+			"spotify": "48l9BYR7hocAmv2CflwIZi"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU8225249",
+				"title": "Lumen (Ioulianos Remix)",
+				"artists": "Monospace & Ross Slotboom",
+				"coverart": "images/coverart/lumenioulianosremix.jpg",
+				"background": "images/backgrounds/lumenioulianosremix.jpg",
+				"release_date": "2020-08-02",
+				"duration": 350,
+				"explicit": false,
+				"platforms": {
+					"spotify": "7byhUae0xMy6YdIkPCzoZO",
+					"bandcamp": "https://sponomace.bandcamp.com/track/lumen-ioulianos-remix",
+					"youtube": "0nqkarGkp8U"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059594436639",
+		"type": "single",
+		"title": "Melting Moonlight (Ross Slotboom Remix)",
+		"artists": "Monospace",
+		"coverart": "images/coverart/meltingmoonlightrossslotboomremix.jpg",
+		"background": "images/backgrounds/meltingmoonlightrossslotboomremix.jpg",
+		"release_date": "2020-07-26",
+		"platforms": {
+			"spotify": "7k6jAp9DmuGmyscfUYXAK8"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU8225145",
+				"title": "Melting Moonlight (Ross Slotboom Remix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/meltingmoonlightrossslotboomremix.jpg",
+				"background": "images/backgrounds/meltingmoonlightrossslotboomremix.jpg",
+				"release_date": "2020-07-26",
+				"duration": 174,
+				"explicit": false,
+				"platforms": {
+					"spotify": "0EgDY1xSV0Wnw8pWOZ3Bkl",
+					"bandcamp": "https://sponomace.bandcamp.com/track/melting-moonlight-ross-slotboom-remix",
+					"youtube": "CFwErZFW5sQ"
+				}
+			},
+			{
+				"isrc": "GBSMU8225166",
+				"title": "Melting Moonlight (Ross Slotboom Extended Remix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/meltingmoonlightrossslotboomremix.jpg",
+				"background": "images/backgrounds/meltingmoonlightrossslotboomremix.jpg",
+				"release_date": "2020-07-26",
+				"duration": 317,
+				"explicit": false,
+				"platforms": {
+					"spotify": "1XA1VVtFXgGYc1t2bLmdRb",
+					"bandcamp": "https://sponomace.bandcamp.com/track/melting-moonlight-ross-slotboom-extended-remix",
+					"youtube": "yIz_YLNTRHs"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059594267318",
+		"type": "single",
+		"title": "Subspace Dreams",
+		"artists": "Monospace",
+		"coverart": "images/coverart/subspacedreams.jpg",
+		"background": "images/backgrounds/subspacedreams.jpg",
+		"release_date": "2020-05-16",
+		"platforms": {
+			"spotify": "3Bz7Aga5kRbEXoa0JPNsoP",
+			"soundcloud": "sponomace/sets/subspace-dreams"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU8172029",
+				"title": "Subspace Dreams (Radio Edit)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/subspacedreams.jpg",
+				"background": "images/backgrounds/subspacedreams.jpg",
+				"release_date": "2020-05-16",
+				"duration": 197,
+				"explicit": false,
+				"platforms": {
+					"spotify": "4L3rbXIG6dEeyrJb77DayN"
+				}
+			},
+			{
+				"isrc": "GBSMU8172035",
+				"title": "Subspace Dreams (Original Mix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/subspacedreams.jpg",
+				"background": "images/backgrounds/subspacedreams.jpg",
+				"release_date": "2020-05-16",
+				"duration": 357,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6skDh6KQRFkI8tzey8qHiy",
+					"soundcloud": "sponomace/subspace-dreams"
+				}
+			},
+			{
+				"isrc": "GBSMU8172044",
+				"title": "Subspace Dreams (No-Piano Radio Edit)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/subspacedreams.jpg",
+				"background": "images/backgrounds/subspacedreams.jpg",
+				"release_date": "2020-05-16",
+				"duration": 197,
+				"explicit": false,
+				"platforms": {
+					"spotify": "1zPBLSejM98vanOSBicEqF"
+				}
+			},
+			{
+				"isrc": "GBSMU8172050",
+				"title": "Subspace Dreams (Original No-Piano Mix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/subspacedreams.jpg",
+				"background": "images/backgrounds/subspacedreams.jpg",
+				"release_date": "2020-05-16",
+				"duration": 357,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2sh01hxd1BkyFXlcTZQEkR",
+					"soundcloud": "sponomace/subspace-dreams-np"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059366501374",
+		"type": "album",
+		"title": "Intrusive",
+		"artists": "Monospace",
+		"coverart": "images/coverart/intrusive.jpg",
+		"background": "images/backgrounds/intrusive.png",
+		"release_date": "2019-11-29",
+		"platforms": {
+			"spotify": "74e8NfXYGwXO7st0Sl4XFP",
+			"bandcamp": "https://sponomace.bandcamp.com/album/intrusive",
+			"youtube": "OLAK5uy_kbJGFoNf63rCHSZweRbjgAU26Ogxo0WmM",
+			"deezer": "119821702",
+			"amazon": "B081QTV4XR",
+			"applemusic": "1488479140",
+			"googleplay": "Bk5peyf7c4gzb2lu43uutxhwj2y"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU7164706",
+				"title": "Collapsing Cosmos",
+				"artists": "Monospace",
+				"coverart": "images/coverart/collapsingcosmos.jpg",
+				"background": "images/backgrounds/collapsingcosmos.jpg",
+				"release_date": "2019-11-29",
+				"duration": 255,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2qdaATjaAyFtGPeOy1bA4W",
+					"bandcamp": "https://sponomace.bandcamp.com/track/collapsing-cosmos",
+					"youtube": "L1YOYME6Lus",
+					"soundcloud": "sponomace/collapsing-cosmos",
+					"deezer": "813349502",
+					"amazon": "B081QVLMY9"
+				}
+			},
+			{
+				"isrc": "GBSMU7164738",
+				"title": "Intrusive",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/intrusive.jpg",
+				"background": "images/backgrounds/intrusive.png",
+				"release_date": "2019-11-29",
+				"duration": 243,
+				"explicit": false,
+				"platforms": {
+					"spotify": "4uMvb65UswtY96vS61vnKH",
+					"bandcamp": "https://sponomace.bandcamp.com/track/intrusive",
+					"youtube": "PVnJdQtM-RA",
+					"soundcloud": "sponomace/intrusive",
+					"deezer": "813349512",
+					"amazon": "B081R1PRVH"
+				}
+			},
+			{
+				"isrc": "GBSMU7164769",
+				"title": "Attack of the Space Crusaders (2019 Remaster)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/attackofthespacecrusadersremaster.jpg",
+				"background": "images/backgrounds/attackofthespacecrusaders.jpg",
+				"release_date": "2019-11-29",
+				"duration": 295,
+				"explicit": false,
+				"platforms": {
+					"spotify": "75HoE2gn6fkMOJMA5PmOtk",
+					"bandcamp": "https://sponomace.bandcamp.com/track/attack-of-the-space-crusaders-2019-remaster",
+					"youtube": "-BqFMsrzLDs",
+					"soundcloud": "sponomace/attack-of-the-space-crusaders-2019",
+					"deezer": "813349522",
+					"amazon": "B081QVLSXX"
+				}
+			},
+			{
+				"isrc": "GBSMU7164786",
+				"title": "Lumen",
+				"artists": "Monospace & Ross Slotboom",
+				"coverart": "images/coverart/lumen.jpg",
+				"background": "images/backgrounds/lumen.jpg",
+				"release_date": "2019-11-29",
+				"duration": 220,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6dBdx07UHtRAPJla7mNqYn",
+					"bandcamp": "https://sponomace.bandcamp.com/track/lumen",
+					"youtube": "obSXVbBIddU",
+					"soundcloud": "sponomace/lumen",
+					"deezer": "813349532",
+					"amazon": "B081QVFZGD"
+				}
+			},
+			{
+				"isrc": "GBSMU7164832",
+				"title": "Gull",
+				"artists": "Monospace & Ioulianos",
+				"coverart": "images/coverart/gull.jpg",
+				"background": "images/backgrounds/gull.jpg",
+				"release_date": "2019-11-29",
+				"duration": 299,
+				"explicit": false,
+				"platforms": {
+					"spotify": "5Vj3fccETXyVNB0GTJPj40",
+					"bandcamp": "https://sponomace.bandcamp.com/track/gull",
+					"youtube": "MoricW3tehA",
+					"soundcloud": "sponomace/gull",
+					"deezer": "813349542",
+					"amazon": "B081QVCFB5"
+				}
+			},
+			{
+				"isrc": "GBSMU7164861",
+				"title": "Melting Moonlight",
+				"artists": "Monospace",
+				"coverart": "images/coverart/meltingmoonlight.jpg",
+				"background": "images/backgrounds/meltingmoonlight.jpg",
+				"release_date": "2019-11-29",
+				"duration": 240,
+				"explicit": false,
+				"platforms": {
+					"spotify": "547x6slZGa1JeFCeho2hra",
+					"bandcamp": "https://sponomace.bandcamp.com/track/melting-moonlight",
+					"youtube": "5VhApicc8qo",
+					"soundcloud": "sponomace/melting-moonlight",
+					"deezer": "813349552",
+					"amazon": "B081QVK1GS"
+				}
+			},
+			{
+				"isrc": "GBSMU7164883",
+				"title": "Intrusive (Extended Mix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/intrusive.jpg",
+				"background": "images/backgrounds/intrusive.png",
+				"release_date": "2019-11-29",
+				"duration": 364,
+				"explicit": false,
+				"platforms": {
+					"spotify": "3HdY7BD6DeEfE6e8lR9z0r",
+					"bandcamp": "https://sponomace.bandcamp.com/track/intrusive-extended-mix",
+					"youtube": "pTYMqgWaQSw",
+					"soundcloud": "sponomace/intrusive-extended-mix",
+					"deezer": "813349562",
+					"amazon": "B081QV6Q9K"
+				}
+			},
+			{
+				"isrc": "GBSMU7164945",
+				"title": "Attack of the Space Crusaders (2019 Extended Remaster)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/attackofthespacecrusadersremaster.jpg",
+				"background": "images/backgrounds/attackofthespacecrusaders.jpg",
+				"release_date": "2019-11-29",
+				"duration": 417,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6snH8UQA6pyEN9ISYVhCL3",
+					"bandcamp": "https://sponomace.bandcamp.com/track/attack-of-the-space-crusaders-2019-extended-remaster",
+					"youtube": "k7aYmhAB1zo",
+					"soundcloud": "sponomace/attack-of-the-space-crusaders-2019-extended",
+					"deezer": "813349572",
+					"amazon": "B081QVBMX2"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059137525486",
+		"type": "single",
+		"title": "Attack of the Space Crusaders (Ioulianos Remix)",
+		"artists": "Monospace & The NGVirus",
+		"coverart": "images/coverart/attackofthespacecrusadersioulianos.jpg",
+		"background": null,
+		"release_date": "2019-02-11",
+		"platforms": {
+			"spotify": "2zZRhGnXf4gS3hvcTHYn3p",
+			"youtube": "OLAK5uy_k0POG_UiSkc3blTpZ842sSrUUIO6xsM0g",
+			"amazon": "B07S1QDTFW",
+			"applemusic": "1464579584",
+			"googleplay": "Broeqxwvov6tsj4mjhhpnwuxufm",
+			"soundcloud": "sets/attack-of-the-space-crusaders-ioulianos",
+			"deezer": "97267952"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU6398867",
+				"title": "Attack of the Space Crusaders (Ioulianos Remix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/attackofthespacecrusadersioulianos.jpg",
+				"background": null,
+				"release_date": "2019-02-11",
+				"duration": 510,
+				"explicit": false,
+				"platforms": {
+					"spotify": "0abKE2ArjqLOfWZtmYX5aQ",
+					"bandcamp": "https://sponomace.bandcamp.com/track/attack-of-the-space-crusaders-ioulianos-remix",
+					"youtube": "OrktdzdFl3E",
+					"soundcloud": "ioulianos/monospace-attack-of-the-space-crusaders-ioulianos-remix-1",
+					"deezer": "681532672",
+					"amazon": "B07S1QDTFW"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5057917780582",
+		"type": "single",
+		"title": "Attack of the Space Crusaders",
+		"artists": "Monospace & The NGVirus",
+		"coverart": "images/coverart/attackofthespacecrusadersoriginal.jpg",
+		"background": null,
+		"release_date": "2018-10-13",
+		"platforms": {
+			"spotify": "6hmJqoLB68RKwuWzv1q7Ji",
+			"youtube": "OLAK5uy_lRccTMhfCPNkCe4rWCKkcxTXQrQysG0vw",
+			"soundcloud": "sponomace/sets/attack-of-the-space-crusaders",
+			"deezer": "82610792",
+			"amazon": "B07MMZ7C84",
+			"applemusic": "1448245536",
+			"googleplay": "Bfcpln5owgh3meiuzun7u556ajm"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU5892576",
+				"title": "Attack of the Space Crusaders",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/attackofthespacecrusadersoriginal.jpg",
+				"background": null,
+				"release_date": "2018-10-13",
+				"duration": 309,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2omf5Ms3V8ghSfZ8ByEmOJ",
+					"youtube": "lHb2bewsy6w",
+					"soundcloud": "sponomace/attack-of-the-space-crusaders",
+					"deezer": "608643422",
+					"amazon": "B07MGK3X27"
+				}
+			},
+			{
+				"isrc": "GBSMU5892584",
+				"title": "Attack of the Space Crusaders (Extended Mix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/attackofthespacecrusadersoriginal.jpg",
+				"background": null,
+				"release_date": "2018-12-15",
+				"duration": 431,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6HYOg4HZewGEnXpwKDPPA1",
+					"youtube": "aTsVfhN5IEs",
+					"soundcloud": "sponomace/attack-of-the-space-crusaders-extended-mix",
+					"deezer": "608643432",
+					"amazon": "B07M9CJJGZ"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5057917869720",
+		"type": "maxi-single",
+		"title": "Exploration of the Phantom Streak",
+		"artists": "Monospace & The NGVirus",
+		"coverart": "images/coverart/explorationofthephantomstreak.jpg",
+		"background": null,
+		"release_date": "2018-10-07",
+		"platforms": {
+			"spotify": "5yJkbFGz2tcVyDi0X03RcN",
+			"youtube": "OLAK5uy_kEcZPkY-rY3F3I_WUMnLNBsubeKOJJybY",
+			"deezer": "97731212",
+			"amazon": "B07S1Y1QM8",
+			"applemusic": "1464884697",
+			"soundcloud": "sponomace/sets/exploration-of-the-phantom-streak",
+			"googleplay": "Bbtsm3px5zerdz6pmr5z2ffvlvi"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU6409256",
+				"title": "Exploration of the Phantom Streak",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/explorationofthephantomstreak.jpg",
+				"background": null,
+				"release_date": "2018-10-07",
+				"duration": 285,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2JUUoRNYl0FogoeyyVSBE0",
+					"youtube": "soBDnVdu24o",
+					"soundcloud": "sponomace/exploration-of-the-phantom-streak",
+					"deezer": "683585812",
+					"amazon": "B07S598GDR"
+				}
+			},
+			{
+				"isrc": "GBSMU6409257",
+				"title": "Exploration of the Phantom Streak (Ioulianos Remix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/explorationofthephantomstreakioulianos.jpg",
+				"background": null,
+				"release_date": "2018-11-10",
+				"duration": 377,
+				"explicit": false,
+				"platforms": {
+					"spotify": "362dnTErz9S5loCD6sxyJW",
+					"youtube": "OEEEFOetALc",
+					"soundcloud": "ioulianos/monospace-exploration-of-the-phantom-streak-ioulianos-remix",
+					"deezer": "683585822",
+					"amazon": "B07S58WMHX"
+				}
+			},
+			{
+				"isrc": "GBSMU6409258",
+				"title": "Exploration of the Phantom Streak (Freek Bes Remix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/explorationofthephantomstreakfreekbes.jpg",
+				"background": null,
+				"release_date": "2018-11-10",
+				"duration": 285,
+				"explicit": false,
+				"platforms": {
+					"spotify": "1OVSI8fmcXT6gGujxM0QWS",
+					"youtube": "Q3sfn7mOQOo",
+					"soundcloud": "freekbes/monospace-exploration-of-the-phantom-streak-freeks-mix",
+					"deezer": "683585832",
+					"amazon": "B07RZX284J"
+				}
+			},
+			{
+				"isrc": "GBSMU6409272",
+				"title": "Exploration of the Phantom Streak (Brain Stain Remix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/explorationofthephantomstreakbrainstain.jpg",
+				"background": null,
+				"release_date": "2018-11-10",
+				"duration": 185,
+				"explicit": true,
+				"platforms": {
+					"spotify": "5KfZ8N1uPpCXOe61s0BLLe",
+					"youtube": "O6prS4ir-rw",
+					"soundcloud": "sponomace/exploration-of-the-phantom-streak-brain-stain-remix",
+					"deezer": "683585842",
+					"amazon": "B07S6T469M"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059366266907",
+		"type": "single",
+		"title": "Imagine (Monospace & The NGVirus Remix)",
+		"artists": "SHIFTIE",
+		"coverart": "images/coverart/imagineremix.jpg",
+		"background": null,
+		"release_date": "2018-08-20",
+		"platforms": {
+			"spotify": "2usTc3oawRQaDyM0PI5hcn",
+			"soundcloud": "sets/imagine-monospace-remix"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU7186556",
+				"title": "Imagine (Monospace & The NGVirus Remix)",
+				"artists": "SHIFTIE",
+				"coverart": "images/coverart/imagineremix.jpg",
+				"background": null,
+				"release_date": "2018-08-20",
+				"duration": 331,
+				"explicit": false,
+				"platforms": {
+					"spotify": "5TQLjge4wBqGJ68h4S8PwM",
+					"soundcloud": "sponomace/imagine-monospace-remix"
+				}
+			}
+		]
+	},
+	{
+		"upc": null,
+		"type": "featured",
+		"title": "Liberation",
+		"artists": "Julian Lieftink",
+		"coverart": "images/coverart/liberationremix.jpg",
+		"background": null,
+		"release_date": "2018-06-15",
+		"platforms": {
+			"spotify": "6MuTQML22PJNXURL9NhoWU",
+			"deezer": "114662892",
+			"amazon": "B07YTLHR1J"
+		},
+		"tracks": [
+			{
+				"isrc": null,
+				"title": "Liberation (Monospace & The NGVirus Remix)",
+				"artists": "Julian Lieftink",
+				"coverart": "images/coverart/liberationremix.jpg",
+				"background": null,
+				"release_date": "2018-06-15",
+				"duration": 370,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6OBVHxuck06KCNOxZX4nw4",
+					"youtube": "l4SxYC2hBek",
+					"soundcloud": "sponomace/liberation-monospace-remix",
+					"deezer": "774562902",
+					"amazon": "B07YTLHR1J"
+				}
+			}
+		]
+	}
 ]
