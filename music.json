@@ -38,6 +38,46 @@
 		]
 	},
 	{
+		"upc": null,
+		"type": "featured",
+		"title": "Little Light",
+		"artists": "Toonross",
+		"coverart": "images/coverart/littlelight.jpg",
+		"background": null,
+		"release_date": "2021-12-28",
+		"platforms": {
+			
+		},
+		"tracks": [
+			{
+				"isrc": null,
+				"title": "Little Light (Monospace Remix)",
+				"artists": "Toonross",
+				"coverart": "images/coverart/littlelightmsremix.jpg",
+				"background": null,
+				"release_date": "2021-12-28",
+				"duration": 179,
+				"explicit": false,
+				"platforms": {
+					
+				}
+			},
+			{
+				"isrc": null,
+				"title": "Little Light (Monospace Extended Remix)",
+				"artists": "Toonross",
+				"coverart": "images/coverart/littlelightmsremix.jpg",
+				"background": null,
+				"release_date": "2021-12-28",
+				"duration": 264,
+				"explicit": false,
+				"platforms": {
+					
+				}
+			}
+		]
+	},
+	{
 		"upc": "5059805475037",
 		"type": "album",
 		"title": "Intrusive (The Remixes)",
