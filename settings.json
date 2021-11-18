@@ -26,7 +26,7 @@
 			"color": "#000000",
 			"random_select_from_discography": false
 		},
-		"tracks_instead_of_albums": true,
+		"tracks_instead_of_albums": false,
 		"hide_extended_and_radio_mixes": true
 	},
 	"socials": {
