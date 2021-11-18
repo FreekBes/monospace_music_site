@@ -305,6 +305,177 @@
 		]
 	},
 	{
+		"upc": "5059505295270",
+		"type": "featured",
+		"title": "The Best Tunes of TunePlay",
+		"artists": "Various Artists",
+		"coverart": "images/coverart/tuneplay.jpg",
+		"background": null,
+		"release_date": "2020-11-26",
+		"platforms": {
+			"spotify": "73rESU550hLue2BCDxemsN"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU6409102",
+				"title": "Ceres (CPU Crashers Remix)",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/ceres.jpg",
+				"background": null,
+				"release_date": "2018-06-21",
+				"duration": 244,
+				"explicit": false,
+				"platforms": {
+					"spotify": "5zodNJTN9JgMZ9H6tJj811"
+				}
+			},
+			{
+				"isrc": "GBSMU6398910",
+				"title": "Nostalgia (Freek Bes Remix)",
+				"artists": "The NGVirus",
+				"coverart": "images/coverart/nostalgiaremixes.jpg",
+				"background": null,
+				"release_date": "2019-04-13",
+				"duration": 284,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2YlEqqi8JBUBhD7vAe7eNj"
+				}
+			},
+			{
+				"isrc": "GBSMU6815578",
+				"title": "Falcon",
+				"artists": "Ross Slotboom & Julian Lieftink & Freek Bes",
+				"coverart": "images/coverart/falcon.jpg",
+				"background": null,
+				"release_date": "2018-03-05",
+				"duration": 323,
+				"explicit": false,
+				"platforms": {
+					"spotify": "3gGpC7gZglw468GKvv571b"
+				}
+			},
+			{
+				"isrc": "GBSMU8929972",
+				"title": "Obfuscous (F-Core Remix)",
+				"artists": "RO33",
+				"coverart": "images/coverart/tuneplay.jpg",
+				"background": null,
+				"release_date": "2020-11-26",
+				"duration": 145,
+				"explicit": false,
+				"platforms": {
+					"spotify": "0uPfl9FRua8wro4Vg61Wfq"
+				}
+			},
+			{
+				"isrc": "GBSMU7164769",
+				"title": "Attack of the Space Crusaders (2019 Remaster)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/attackofthespacecrusadersremaster.jpg",
+				"background": "images/backgrounds/attackofthespacecrusaders.jpg",
+				"release_date": "2019-11-29",
+				"duration": 295,
+				"explicit": false,
+				"platforms": {
+					"spotify": "75HoE2gn6fkMOJMA5PmOtk",
+					"bandcamp": "https://sponomace.bandcamp.com/track/attack-of-the-space-crusaders-2019-remaster",
+					"youtube": "-BqFMsrzLDs",
+					"soundcloud": "sponomace/attack-of-the-space-crusaders-2019",
+					"deezer": "813349522",
+					"amazon": "B081QVLSXX"
+				}
+			},
+			{
+				"isrc": "GBSMU6409101",
+				"title": "Ceres",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/ceres.jpg",
+				"background": null,
+				"release_date": "2018-06-21",
+				"duration": 223,
+				"explicit": false,
+				"platforms": {
+					"spotify": "43PhMHThP8VW5JVuvfBDJg"
+				}
+			},
+			{
+				"isrc": "GBSMU7164786",
+				"title": "Lumen",
+				"artists": "Monospace & Ross Slotboom",
+				"coverart": "images/coverart/lumen.jpg",
+				"background": "images/backgrounds/lumen.jpg",
+				"release_date": "2019-11-29",
+				"duration": 220,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6dBdx07UHtRAPJla7mNqYn",
+					"bandcamp": "https://sponomace.bandcamp.com/track/lumen",
+					"youtube": "obSXVbBIddU",
+					"soundcloud": "sponomace/lumen",
+					"deezer": "813349532",
+					"amazon": "B081QVFZGD"
+				}
+			},
+			{
+				"isrc": "GBSMU8930056",
+				"title": "Liberation (Monospace & The NGVirus Remix) (Radio Edit)",
+				"artists": "Julian Lieftink",
+				"coverart": "images/coverart/liberationremixradio.jpg",
+				"background": null,
+				"release_date": "2020-11-26",
+				"duration": 229,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6Az3ABxFItIozwSU4K9k1P"
+				}
+			},
+			{
+				"isrc": "GBSMU6409256",
+				"title": "Exploration of the Phantom Streak",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/explorationofthephantomstreak.jpg",
+				"background": null,
+				"release_date": "2018-10-07",
+				"duration": 285,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2JUUoRNYl0FogoeyyVSBE0",
+					"youtube": "soBDnVdu24o",
+					"soundcloud": "sponomace/exploration-of-the-phantom-streak",
+					"deezer": "683585812",
+					"amazon": "B07S598GDR"
+				}
+			},
+			{
+				"isrc": "GBSMU8930135",
+				"title": "Falcon (JL23 Remix)",
+				"artists": "Ross Slotboom & Julian Lieftink & Freek Bes",
+				"coverart": "images/coverart/falconjl23.jpg",
+				"background": null,
+				"release_date": "2020-11-26",
+				"duration": 203,
+				"explicit": false,
+				"platforms": {
+					"spotify": "5kJmLVJrTWHrIlZKaAm967"
+				}
+			},
+			{
+				"isrc": "GBSMU8930144",
+				"title": "Ceres (JL23 Remix)",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/ceres.jpg",
+				"background": null,
+				"release_date": "2020-11-26",
+				"duration": 216,
+				"explicit": false,
+				"platforms": {
+					"spotify": "1F71AhQoEBL0X3tkJ2GLzc"
+				}
+			}
+		]
+	},
+	{
 		"upc": "5059654378732",
 		"type": "single",
 		"title": "Gull",
@@ -686,6 +857,46 @@
 		]
 	},
 	{
+		"upc": "5059137167785",
+		"type": "featured",
+		"title": "Nostalgia (The Remixes)",
+		"artists": "The NGVirus",
+		"coverart": "images/coverart/nostalgiaremixes.jpg",
+		"background": null,
+		"release_date": "2019-04-13",
+		"platforms": {
+			"spotify": "2qAC4nYDqchMSjx1Wq1dRt"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU6398910",
+				"title": "Nostalgia (Freek Bes Remix)",
+				"artists": "The NGVirus",
+				"coverart": "images/coverart/nostalgiaremixes.jpg",
+				"background": null,
+				"release_date": "2019-04-13",
+				"duration": 284,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2YlEqqi8JBUBhD7vAe7eNj"
+				}
+			},
+			{
+				"isrc": "GBSMU6398913",
+				"title": "Nostalgia (Freek Bes 8-Bit Remake)",
+				"artists": "The NGVirus",
+				"coverart": "images/coverart/nostalgiaremixes.jpg",
+				"background": null,
+				"release_date": "2019-04-13",
+				"duration": 192,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6HKRBcDGOIpI081eJnrLaH"
+				}
+			}
+		]
+	},
+	{
 		"upc": "5059137525486",
 		"type": "single",
 		"title": "Attack of the Space Crusaders (Ioulianos Remix)",
@@ -895,6 +1106,59 @@
 		]
 	},
 	{
+		"upc": "5059137475620",
+		"type": "single",
+		"title": "Ceres",
+		"artists": "Freek Bes",
+		"coverart": "images/coverart/ceres.jpg",
+		"background": null,
+		"release_date": "2018-06-21",
+		"platforms": {
+			"spotify": "5R4Pt6V3mcO3yGIClV87Gp"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU6409102",
+				"title": "Ceres (CPU Crashers Remix)",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/ceres.jpg",
+				"background": null,
+				"release_date": "2018-07-20",
+				"duration": 244,
+				"explicit": false,
+				"platforms": {
+					"spotify": "5zodNJTN9JgMZ9H6tJj811"
+				}
+			},
+			{
+				"isrc": "GBSMU6409101",
+				"title": "Ceres",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/ceres.jpg",
+				"background": null,
+				"release_date": "2018-06-20",
+				"duration": 223,
+				"explicit": false,
+				"platforms": {
+					"spotify": "43PhMHThP8VW5JVuvfBDJg"
+				}
+			},
+			{
+				"isrc": "GBSMU6409103",
+				"title": "Ceres (Julian Lieftink Remix)",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/ceres.jpg",
+				"background": null,
+				"release_date": "2018-07-20",
+				"duration": 253,
+				"explicit": false,
+				"platforms": {
+					"spotify": "44lDkOxvwDVQjuUOm8IcEi"
+				}
+			}
+		]
+	},
+	{
 		"upc": null,
 		"type": "featured",
 		"title": "Liberation",
@@ -923,6 +1187,60 @@
 					"soundcloud": "sponomace/liberation-monospace-remix",
 					"deezer": "774562902",
 					"amazon": "B07YTLHR1J"
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059366971658",
+		"type": "single",
+		"title": "Falcon",
+		"artists": "Ross Slotboom & Julian Lieftink & Freek Bes",
+		"coverart": "images/coverart/falcon.jpg",
+		"background": null,
+		"release_date": "2018-03-05",
+		"platforms": {
+			"spotify": "289OfC8W8J250bVWwVPnFk"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU6815578",
+				"title": "Falcon",
+				"artists": "Ross Slotboom & Julian Lieftink & Freek Bes",
+				"coverart": "images/coverart/falcon.jpg",
+				"background": null,
+				"release_date": "2018-03-05",
+				"duration": 323,
+				"explicit": false,
+				"platforms": {
+					"spotify": "3gGpC7gZglw468GKvv571b"
+				}
+			}
+		]
+	},
+	{
+		"upc": null,
+		"type": "featured",
+		"title": "Davey Asprey - Fallout (F-Core Bootleg)",
+		"artists": "Freek Bes",
+		"coverart": "images/coverart/falloutbootleg.jpg",
+		"background": null,
+		"release_date": "2017-12-05",
+		"platforms": {
+			
+		},
+		"tracks": [
+			{
+				"isrc": null,
+				"title": "Fallout (F-Core Bootleg)",
+				"artists": "Davey Asprey",
+				"coverart": "images/coverart/falloutbootleg.jpg",
+				"background": null,
+				"release_date": "2017-12-05",
+				"duration": 282,
+				"explicit": false,
+				"platforms": {
+					"soundcloud": "freekbes/fallout-bootleg"
 				}
 			}
 		]
