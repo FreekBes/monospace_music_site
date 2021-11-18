@@ -1,72 +1,72 @@
 {
-    "artist": "Monospace",
-    
-    "home": {
-        "background": {
-            "enabled": true,
-            "href": "images/backgrounds/intrusive.png",
-            "color": "#000000",
-            "random_select_from_discography": true
-        },
-        "standout": {
-            "enabled": true,
-            "header": "Who am I?",
-            "text": "My name is <a href=\"https://freekb.es/\" target=\"_blank\">Freek Bes</a>. Under the alias \"Monospace\", I produce and release trance music. I am currently not signed to any record label - everything I release, I release independently.<br/><br/>Before May 2020, <a href=\"https://www.linkedin.com/in/amaro-berghout/\" target=\"_blank\">Amaro Berghout</a> also used to be a part of Monospace, but we've decided to split ways. Monospace is now just me. Amaro and I will continue to produce tracks, but he'll use his own artist name (<a href=\"https://open.spotify.com/artist/3FGKP6oIi0CvtOxMWTpi68\" target=\"blank\">The NGVirus</a>).<br/><br/>To see my full discography, just scroll down a bit!",
-            "image": null,
-            "countdown_to": "2020-05-16",
-            "countdown_reached_text": "Play now",
-            "countdown_reached_link": "music.php?r=subspace-dreams",
-            "countdown_enabled": false
-        }
-    },
-    "music": {
-        "background": {
-            "false": true,
-            "href": "images/backgrounds/intrusive.png",
-            "color": "#000000",
-            "random_select_from_discography": false
-        },
-        "tracks_instead_of_albums": true,
-        "hide_extended_and_radio_mixes": true
-    },
-    "socials": {
-        "background": {
-            "false": true,
-            "href": "images/backgrounds/intrusive.png",
-            "color": "#b10000",
-            "random_select_from_discography": false
-        },
-        "links": [
-            {
-                "name": "Instagram",
-                "icon": "images/icons/instagram.png",
-                "href": "https://www.instagram.com/sponomace"
-            },
-            {
-                "name": "Twitter",
-                "icon": "images/icons/twitter.png",
-                "href": "https://www.twitter.com/sponomace"
-            },
-            {
-                "name": "YouTube",
-                "icon": "images/icons/youtube.png",
-                "href": "https://www.youtube.com/channel/UCkQj2cF8LtyWqO9Rp3bwKpQ/"
-            }
-        ]
-    },
-    "contact": {
-        "background": {
-            "false": true,
-            "href": "images/backgrounds/intrusive.png",
-            "color": "#000000",
-            "random_select_from_discography": false
-        },
-        "methods": {
-            "mail": {
-                "address": "sponomace@gmail.com",
-                "replace_at": true,
-                "not_clickable": true
-            }
-        }
-    }
+	"artist": "Monospace",
+	
+	"home": {
+		"background": {
+			"enabled": true,
+			"href": "images/backgrounds/intrusive.png",
+			"color": "#000000",
+			"random_select_from_discography": true
+		},
+		"standout": {
+			"enabled": true,
+			"header": "Who am I?",
+			"text": "My name is <a href=\"https://freekb.es/\" target=\"_blank\">Freek Bes</a>. Under the alias \"Monospace\", I produce and release trance music. I am currently not signed to any record label - everything I release, I release independently.<br/><br/>Before May 2020, <a href=\"https://www.linkedin.com/in/amaro-berghout/\" target=\"_blank\">Amaro Berghout</a> also used to be a part of Monospace, but we've decided to split ways. Monospace is now just me. Amaro and I will continue to produce tracks, but he'll use his own artist name (<a href=\"https://open.spotify.com/artist/3FGKP6oIi0CvtOxMWTpi68\" target=\"blank\">The NGVirus</a>).<br/><br/>To see my full discography, just scroll down a bit!",
+			"image": null,
+			"countdown_to": "2020-05-16",
+			"countdown_reached_text": "Play now",
+			"countdown_reached_link": "music.php?r=subspace-dreams",
+			"countdown_enabled": false
+		}
+	},
+	"music": {
+		"background": {
+			"false": true,
+			"href": "images/backgrounds/intrusive.png",
+			"color": "#000000",
+			"random_select_from_discography": false
+		},
+		"tracks_instead_of_albums": true,
+		"hide_extended_and_radio_mixes": true
+	},
+	"socials": {
+		"background": {
+			"false": true,
+			"href": "images/backgrounds/intrusive.png",
+			"color": "#b10000",
+			"random_select_from_discography": false
+		},
+		"links": [
+			{
+				"name": "Instagram",
+				"icon": "images/icons/instagram.png",
+				"href": "https://www.instagram.com/sponomace"
+			},
+			{
+				"name": "Twitter",
+				"icon": "images/icons/twitter.png",
+				"href": "https://www.twitter.com/sponomace"
+			},
+			{
+				"name": "YouTube",
+				"icon": "images/icons/youtube.png",
+				"href": "https://www.youtube.com/channel/UCkQj2cF8LtyWqO9Rp3bwKpQ/"
+			}
+		]
+	},
+	"contact": {
+		"background": {
+			"false": true,
+			"href": "images/backgrounds/intrusive.png",
+			"color": "#000000",
+			"random_select_from_discography": false
+		},
+		"methods": {
+			"mail": {
+				"address": "sponomace@gmail.com",
+				"replace_at": true,
+				"not_clickable": true
+			}
+		}
+	}
 }

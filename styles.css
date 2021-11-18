@@ -1,387 +1,387 @@
 html {
-    background: #000000;
-    color: #EDEDED;
-    margin: 0px;
-    padding: 0px;
-    width: 100%;
-    height: 100%;
+	background: #000000;
+	color: #EDEDED;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	height: 100%;
 }
 
 body {
-    background: inherit;
-    color: inherit;
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
-    width: 100%;
-    height: 100%;
+	background: inherit;
+	color: inherit;
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	width: 100%;
+	height: 100%;
 }
 
 * {
-    outline-color: #ff0000;
+	outline-color: #ff0000;
 }
 
 a {
-    color: #ff0000;
-    text-decoration: none;
-    transition: color 0.15s;
-    cursor: pointer;
+	color: #ff0000;
+	text-decoration: none;
+	transition: color 0.15s;
+	cursor: pointer;
 }
 
 a:hover, a:focus {
-    transition: color 0.05s;
-    text-decoration: underline;
+	transition: color 0.05s;
+	text-decoration: underline;
 }
 
 h2 {
-    display: block;
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: 3px;
-    margin: 0px;
-    padding: 32px 0px 6px 0px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: 700;
+	letter-spacing: 3px;
+	margin: 0px;
+	padding: 32px 0px 6px 0px;
 }
 
 h3 {
-    display: block;
-    text-align: center;
-    text-decoration: none;
-    font-style: italic;
-    font-size: 16px;
-    font-weight: 400;
-    letter-spacing: 1px;
-    margin: -4px 0px 0px 0px;
-    padding: 0px 0px 6px 0px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	font-style: italic;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	margin: -4px 0px 0px 0px;
+	padding: 0px 0px 6px 0px;
 }
 
 hr {
-    border-top: none;
-    border-bottom: solid 1px #EDEDED;
-    width: 70%;
-    margin: 0px auto 56px auto;
+	border-top: none;
+	border-bottom: solid 1px #EDEDED;
+	width: 70%;
+	margin: 0px auto 56px auto;
 }
 
 p {
-    margin: 16px 0px;
+	margin: 16px 0px;
 }
 
 header {
-    background: linear-gradient(to bottom, rgb(177, 0, 0), rgba(0,0,0,0));
-    text-align: center;
-    cursor: default;
-    position: absolute;
-    width: 100%;
-    left: 0px;
-    top: 0px;
-    right: 0px;
-    height: 200px;
-    z-index: 200;
+	background: linear-gradient(to bottom, rgb(177, 0, 0), rgba(0,0,0,0));
+	text-align: center;
+	cursor: default;
+	position: absolute;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	height: 200px;
+	z-index: 200;
 }
 
 #logo {
-    display: inline-block;
-    width: 400px;
-    max-width: 60%;
-    margin: 8px 0px;
-    pointer-events: none;
+	display: inline-block;
+	width: 400px;
+	max-width: 60%;
+	margin: 8px 0px;
+	pointer-events: none;
 }
 
 nav {
-    display: block;
-    text-align: center;
-    margin-bottom: 6px;
+	display: block;
+	text-align: center;
+	margin-bottom: 6px;
 }
 
 nav a {
-    display: inline-block;
-    padding: 4px 8px;
-    text-decoration: none;
-    text-transform: uppercase;
-    color: #EDEDED;
-    cursor: pointer;
-    font-size: 22px;
-    font-weight: 400;
-    letter-spacing: 1px;
-    margin: 0px 6px;
-    transition: color 0.15s;
+	display: inline-block;
+	padding: 4px 8px;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #EDEDED;
+	cursor: pointer;
+	font-size: 22px;
+	font-weight: 400;
+	letter-spacing: 1px;
+	margin: 0px 6px;
+	transition: color 0.15s;
 }
 
 nav a:hover, nav a:focus {
-    color: #ff0000;
-    transition: color 0.05s;
-    text-decoration: none;
+	color: #ff0000;
+	transition: color 0.05s;
+	text-decoration: none;
 }
 
 main {
-    display: block;
-    height: 100%;
-    width: 100%;
-    padding-top: 240px;
+	display: block;
+	height: 100%;
+	width: 100%;
+	padding-top: 240px;
 }
 
 section {
-    display: block;
-    width: 100%;
-    min-height: 100%;
-    position: relative;
-    padding-bottom: 48px;
+	display: block;
+	width: 100%;
+	min-height: 100%;
+	position: relative;
+	padding-bottom: 48px;
 }
 
 section > * {
-    z-index: 2;
-    position: relative;
+	z-index: 2;
+	position: relative;
 }
 
 .section-bg, .page-bg {
-    display: block;
-    object-fit: cover;
-    filter: blur(3px);
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    width: 100%;
-    height: 100%;
-    opacity: 30%;
-    z-index: 1;
-    pointer-events: none;
+	display: block;
+	object-fit: cover;
+	filter: blur(3px);
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	width: 100%;
+	height: 100%;
+	opacity: 30%;
+	z-index: 1;
+	pointer-events: none;
 }
 
 .section-bg {
-    position: absolute;
+	position: absolute;
 }
 
 .page-bg {
-    position: fixed;
+	position: fixed;
 }
 
 #home {
-    min-height: auto;
+	min-height: auto;
 }
 
 #standout {
-    display: block;
-    padding: 48px;
-    background: radial-gradient(ellipse, rgba(255,255,255,0.2), rgba(255,255,255,0));
-    height: 350px;
+	display: block;
+	padding: 48px;
+	background: radial-gradient(ellipse, rgba(255,255,255,0.2), rgba(255,255,255,0));
+	height: 350px;
 }
 
 #standout-image {
-    float: left;
-    margin-right: 48px;
-    height: inherit;
+	float: left;
+	margin-right: 48px;
+	height: inherit;
 }
 
 #standout-next-to-image {
-    text-align: left;
+	text-align: left;
 }
 
 #standout-next-to-image h2 {
-    text-align: left;
+	text-align: left;
 }
 
 #standout-next-to-image hr, #album-details hr {
-    text-align: left;
-    width: auto;
-    margin-bottom: 14px;
+	text-align: left;
+	width: auto;
+	margin-bottom: 14px;
 }
 
 #standout-countdown {
-    display: block;
-    background-clip: padding-box;
-    padding: 12px;
-    margin: 16px 8px 8px 8px;
-    text-align: left;
-    font-size: 20px;
-    font-weight: 400;
+	display: block;
+	background-clip: padding-box;
+	padding: 12px;
+	margin: 16px 8px 8px 8px;
+	text-align: left;
+	font-size: 20px;
+	font-weight: 400;
 }
 
 #discography {
-    display: block;
-    text-align: center;
+	display: block;
+	text-align: center;
 }
 
 .release {
-    position: relative;
-    cursor: pointer;
-    display: inline-block;
-    width: 225px;
-    height: 225px;
-    margin: 4px;
-    border: solid 1px rgba(0,0,0,0);
-    border-radius: 3px;
-    transition: 0.15s;
+	position: relative;
+	cursor: pointer;
+	display: inline-block;
+	width: 225px;
+	height: 225px;
+	margin: 4px;
+	border: solid 1px rgba(0,0,0,0);
+	border-radius: 3px;
+	transition: 0.15s;
 }
 
 .release:hover, .release:focus {
-    outline: none;
-    border: solid 1px #ff0000;
-    transition: 0.05s;
+	outline: none;
+	border: solid 1px #ff0000;
+	transition: 0.05s;
 }
 
 .release-cover {
-    pointer-events: none;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    border-radius: inherit;
+	pointer-events: none;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	border-radius: inherit;
 }
 
 .play-now {
-    opacity: 0;
-    position: absolute;
-    top: 8px;
-    right: 8px;
-    cursor: pointer;
-    background-size: 80% 80%;
-    background-repeat: no-repeat;
-    background-position: center center;
-    width: 28px;
-    height: 28px;
-    transition: 0.15s;
+	opacity: 0;
+	position: absolute;
+	top: 8px;
+	right: 8px;
+	cursor: pointer;
+	background-size: 80% 80%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 28px;
+	height: 28px;
+	transition: 0.15s;
 }
 
 .release:hover .play-now, .release:focus .play-now {
-    opacity: 0.6;
+	opacity: 0.6;
 }
 
 .play-now:hover, .play-now:focus {
-    opacity: 0.9 !important;
-    transition: 0.05s;
+	opacity: 0.9 !important;
+	transition: 0.05s;
 }
 
 
 #album-details {
-    margin: 32px;
-    text-align: left;
+	margin: 32px;
+	text-align: left;
 }
 
 #coverart {
-    float: left;
-    height: 400px;
-    margin-right: 32px;
-    border-radius: 3px;
+	float: left;
+	height: 400px;
+	margin-right: 32px;
+	border-radius: 3px;
 }
 
 #album-details h2, #album-details h3 {
-    text-align: left;
+	text-align: left;
 }
 
 #play-via {
-    display: block;
-    margin-bottom: 8px;
+	display: block;
+	margin-bottom: 8px;
 }
 
 #play-via button {
-    display: inline-block;
-    cursor: pointer;
-    padding: 4px 6px 4px 4px;
-    margin: 2px 2px;
-    color: #EDEDED;
-    background: rgba(0,0,0,0.3);
-    border: solid 1px rgba(0,0,0,0.1);
-    border-radius: 3px;
-    transition: 0.15s;
+	display: inline-block;
+	cursor: pointer;
+	padding: 4px 6px 4px 4px;
+	margin: 2px 2px;
+	color: #EDEDED;
+	background: rgba(0,0,0,0.3);
+	border: solid 1px rgba(0,0,0,0.1);
+	border-radius: 3px;
+	transition: 0.15s;
 }
 
 #play-via button:first-child {
-    margin-left: 0px;
+	margin-left: 0px;
 }
 
 #play-via button:last-child {
-    margin-right: 0px;
+	margin-right: 0px;
 }
 
 #play-via button img {
-    display: inline-block;
-    vertical-align: middle;
-    width: 20px;
-    height: 20px;
-    margin-right: 4px;
+	display: inline-block;
+	vertical-align: middle;
+	width: 20px;
+	height: 20px;
+	margin-right: 4px;
 }
 
 #play-via button span {
-    display: inline-block;
-    vertical-align: middle;
+	display: inline-block;
+	vertical-align: middle;
 }
 
 #play-via button:hover, #play-via button:focus {
-    background: rgba(255,255,255,0.05);
-    border: solid 1px rgba(0,0,0,0.3);
-    transition: 0.05s;
-    outline: none;
+	background: rgba(255,255,255,0.05);
+	border: solid 1px rgba(0,0,0,0.3);
+	transition: 0.05s;
+	outline: none;
 }
 
 #play-via button:active {
-    background: rgba(255,255,255,0.2);
-    transition: 0s;
-    outline: none;
+	background: rgba(255,255,255,0.2);
+	transition: 0s;
+	outline: none;
 }
 
 #tracklist {
-    display: block;
-    overflow: auto;
-    padding: 8px 6px;
-    background: rgba(0,0,0,0.3);
-    border: solid 1px rgba(0,0,0,0.1);
-    border-radius: 3px;
+	display: block;
+	overflow: auto;
+	padding: 8px 6px;
+	background: rgba(0,0,0,0.3);
+	border: solid 1px rgba(0,0,0,0.1);
+	border-radius: 3px;
 }
 
 #tracklist ol {
-    list-style-position: inside;
-    margin: 0px;
-    padding: 0px;
+	list-style-position: inside;
+	margin: 0px;
+	padding: 0px;
 }
 
 #tracklist li {
-    padding: 6px 12px;
-    background: rgba(255,255,255,0);
-    background-clip: padding-box;
-    border-top: solid 1px rgba(0,0,0,0.2);
-    cursor: pointer;
-    transition: background 0.15s;
+	padding: 6px 12px;
+	background: rgba(255,255,255,0);
+	background-clip: padding-box;
+	border-top: solid 1px rgba(0,0,0,0.2);
+	cursor: pointer;
+	transition: background 0.15s;
 }
 
 #tracklist li:last-child {
-    border-bottom: solid 1px rgba(0,0,0,0.2);
+	border-bottom: solid 1px rgba(0,0,0,0.2);
 }
 
 #tracklist li:hover, #tracklist:focus {
-    background: rgba(255,255,255,0.05);
-    transition: 0.05s;
+	background: rgba(255,255,255,0.05);
+	transition: 0.05s;
 }
 
 #tracklist li a {
-    color: inherit !important;
-    text-decoration: none !important;
+	color: inherit !important;
+	text-decoration: none !important;
 }
 
 #tracklist > * {
-    vertical-align: middle;
+	vertical-align: middle;
 }
 
 #tracklist .track-title {
-    text-align: left;
-    margin-left: 14px;
-    display: inline-block;
-    vertical-align: top;
-    width: 70%;
+	text-align: left;
+	margin-left: 14px;
+	display: inline-block;
+	vertical-align: top;
+	width: 70%;
 }
 
 #tracklist .track-duration {
-    float: right;
-    text-align: right;
-    font-size: smaller;
-    font-style: italic;
-    color: #ADADAD;
+	float: right;
+	text-align: right;
+	font-size: smaller;
+	font-style: italic;
+	color: #ADADAD;
 }
 
 /* SELECTION */
@@ -398,85 +398,85 @@ section > * {
 }
 
 @media screen and (max-width: 900px) {
-    #coverart {
-        height: 300px;
-        margin-bottom: 100px;
-    }
+	#coverart {
+		height: 300px;
+		margin-bottom: 100px;
+	}
 }
 
 @media screen and (max-width: 750px) {
-    #coverart {
-        height: 200px;
-        margin-bottom: 200px;
-    }
+	#coverart {
+		height: 200px;
+		margin-bottom: 200px;
+	}
 }
 
 @media screen and (max-width: 600px) {
-    #standout {
-        height: auto;
-        text-align: center;
-        padding: 24px;
-    }
+	#standout {
+		height: auto;
+		text-align: center;
+		padding: 24px;
+	}
 
-    #standout-image {
-        display: inline-block;
-        float: none;
-        height: auto;
-        max-width: 100%;
-        margin-right: 0px;
-    }
+	#standout-image {
+		display: inline-block;
+		float: none;
+		height: auto;
+		max-width: 100%;
+		margin-right: 0px;
+	}
 
-    #standout-next-to-image {
-        display: block;
-        text-align: center;
-    }
+	#standout-next-to-image {
+		display: block;
+		text-align: center;
+	}
 
-    #standout-next-to-image h2 {
-        text-align: center;
-        padding-top: 8px;
-    }
+	#standout-next-to-image h2 {
+		text-align: center;
+		padding-top: 8px;
+	}
 
-    #standout-countdown {
-        text-align: center;
-    }
+	#standout-countdown {
+		text-align: center;
+	}
 
-    .release {
-        width: 150px;
-        height: 150px;
-    }
+	.release {
+		width: 150px;
+		height: 150px;
+	}
 
 
-    #album-details {
-        text-align: center;
-        margin: 24px;
-    }
+	#album-details {
+		text-align: center;
+		margin: 24px;
+	}
 
-    #coverart {
-        display: inline-block;
-        height: auto;
-        width: 400px;
-        max-width: 100%;
-        float: none;
-        margin-bottom: 0px;
-    }
+	#coverart {
+		display: inline-block;
+		height: auto;
+		width: 400px;
+		max-width: 100%;
+		float: none;
+		margin-bottom: 0px;
+	}
 
-    #album-details h2, #album-details h3 {
-        text-align: center;
-    }
+	#album-details h2, #album-details h3 {
+		text-align: center;
+	}
 
-    #play-via button {
-        display: block;
-        width: 100%;
-        padding: 8px;
-        margin: 4px 0px;
-        text-align: left;
-    }
+	#play-via button {
+		display: block;
+		width: 100%;
+		padding: 8px;
+		margin: 4px 0px;
+		text-align: left;
+	}
 
-    #play-via button img {
-        float: right;
-    }
+	#play-via button img {
+		float: right;
+	}
 
-    #tracklist li {
-        padding: 10px 16px;
-    }
+	#tracklist li {
+		padding: 10px 16px;
+	}
 }
