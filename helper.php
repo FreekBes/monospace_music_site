@@ -138,6 +138,9 @@
 	function get_random_background($music) {
 		$backgrounds = array();
 		foreach ($music as $release) {
+			if ($release["type"] == "featured") {
+				continue;
+			}
 			if (!empty($release["background"])) {
 				array_push($backgrounds, $release["background"]);
 			}
@@ -162,7 +165,6 @@
 			case "ep":
 				return "EP";
 			case "featured":
-				return "release";
 			default:
 				return "release";
 		}
