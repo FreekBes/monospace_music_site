@@ -1,5 +1,162 @@
 [
 	{
+		"upc": "5059962888299",
+		"type": "single",
+		"title": "Mesospheric Touch",
+		"artists": "Monospace",
+		"coverart": "images/coverart/mesospherictouch.jpg",
+		"background": null,
+		"release_date": "2021-11-29",
+		"platforms": {
+
+		},
+		"tracks": [
+			{
+				"isrc": "GX5MX2176846",
+				"title": "Mesospheric Touch",
+				"artists": "Monospace",
+				"coverart": "images/coverart/mesospherictouch.jpg",
+				"release_date": "2021-11-29",
+				"duration": 219,
+				"explicit": false,
+				"platforms": {
+
+				}
+			},
+			{
+				"isrc": "GX5MX2176993",
+				"title": "Mesospheric Touch (Club Mix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/mesospherictouch.jpg",
+				"release_date": "2021-11-29",
+				"duration": 383,
+				"explicit": false,
+				"platforms": {
+					
+				}
+			}
+		]
+	},
+	{
+		"upc": "5059805475037",
+		"type": "album",
+		"title": "Intrusive (The Remixes)",
+		"artists": "Monospace",
+		"coverart": "images/coverart/intrusiveremixes.jpg",
+		"background": null,
+		"release_date": "2021-04-19",
+		"platforms": {
+			"bandcamp": "https://sponomace.bandcamp.com/album/intrusive-the-remixes"
+		},
+		"tracks": [
+			{
+				"isrc": "GBSMU8225145",
+				"title": "Melting Moonlight (Ross Slotboom Remix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/meltingmoonlightrossslotboomremix.jpg",
+				"background": "images/backgrounds/meltingmoonlightrossslotboomremix.jpg",
+				"release_date": "2020-07-26",
+				"duration": 174,
+				"explicit": false,
+				"platforms": {
+					"spotify": "0EgDY1xSV0Wnw8pWOZ3Bkl",
+					"bandcamp": "https://sponomace.bandcamp.com/track/melting-moonlight-ross-slotboom-remix",
+					"youtube": "CFwErZFW5sQ"
+				}
+			},
+			{
+				"isrc": "GBSMU8225166",
+				"title": "Melting Moonlight (Ross Slotboom Extended Remix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/meltingmoonlightrossslotboomremix.jpg",
+				"background": "images/backgrounds/meltingmoonlightrossslotboomremix.jpg",
+				"release_date": "2020-07-26",
+				"duration": 317,
+				"explicit": false,
+				"platforms": {
+					"spotify": "1XA1VVtFXgGYc1t2bLmdRb",
+					"bandcamp": "https://sponomace.bandcamp.com/track/melting-moonlight-ross-slotboom-extended-remix",
+					"youtube": "yIz_YLNTRHs"
+				}
+			},
+			{
+				"isrc": "GBSMU8225249",
+				"title": "Lumen (Ioulianos Remix)",
+				"artists": "Monospace & Ross Slotboom",
+				"coverart": "images/coverart/lumenioulianosremix.jpg",
+				"background": "images/backgrounds/lumenioulianosremix.jpg",
+				"release_date": "2020-08-02",
+				"duration": 350,
+				"explicit": false,
+				"platforms": {
+					"spotify": "7byhUae0xMy6YdIkPCzoZO",
+					"bandcamp": "https://sponomace.bandcamp.com/track/lumen-ioulianos-remix",
+					"youtube": "0nqkarGkp8U"
+				}
+			},
+			{
+				"isrc": "GBSMU8810162",
+				"title": "Gull (More Techno Edit)",
+				"artists": "Monospace & Ioulianos",
+				"coverart": "images/coverart/gull.jpg",
+				"background": "images/backgrounds/gull.jpg",
+				"release_date": "2020-10-24",
+				"duration": 391,
+				"explicit": false,
+				"platforms": {
+					"spotify": "3mvTYvOsjrvu34QxK1XJLX",
+					"bandcamp": "https://sponomace.bandcamp.com/track/gull-more-techno-edit-2"
+				}
+			},
+			{
+				"isrc": "GBSMU6398867",
+				"title": "Attack of the Space Crusaders (Ioulianos Remix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/attackofthespacecrusadersioulianos.jpg",
+				"background": null,
+				"release_date": "2019-02-11",
+				"duration": 510,
+				"explicit": false,
+				"platforms": {
+					"spotify": "0abKE2ArjqLOfWZtmYX5aQ",
+					"bandcamp": "https://sponomace.bandcamp.com/track/attack-of-the-space-crusaders-ioulianos-remix",
+					"youtube": "OrktdzdFl3E",
+					"soundcloud": "ioulianos/monospace-attack-of-the-space-crusaders-ioulianos-remix-1",
+					"deezer": "681532672",
+					"amazon": "B07S1QDTFW"
+				}
+			},
+			{
+				"isrc": "GBSMU8225359",
+				"title": "Melting Moonlight (Brain Stain Remix)",
+				"artists": "Monospace",
+				"coverart": "images/coverart/meltingmoonlightbrainstain.jpg",
+				"background": "images/backgrounds/meltingmoonlightbrainstain.jpg",
+				"release_date": "2020-08-09",
+				"duration": 251,
+				"explicit": false,
+				"platforms": {
+					"spotify": "6zFkYGDFsIUcjJ6rn1U6Kc",
+					"bandcamp": "https://sponomace.bandcamp.com/track/melting-moonlight-brain-stain-remix",
+					"youtube": "1lmlVAPC3II"
+				}
+			},
+			{
+				"isrc": "GBSMU7164769",
+				"title": "Attack of the Space Crusaders (Unreleased Progressive Mix)",
+				"artists": "Monospace & The NGVirus",
+				"coverart": "images/coverart/intrusiveremixes.jpg",
+				"background": null,
+				"release_date": "2021-04-19",
+				"duration": 367,
+				"explicit": false,
+				"platforms": {
+					"bandcamp": "https://sponomace.bandcamp.com/track/attack-of-the-space-crusaders-unreleased-progressive-mix-2"
+				}
+			}
+		]
+	},
+	{
 		"upc": "5059741404733",
 		"type": "ep",
 		"title": "Space Shuttle",
