@@ -11,12 +11,12 @@
 		"standout": {
 			"enabled": true,
 			"header": "Who am I?",
-			"text": "My name is <a href=\"https://freekb.es/\" target=\"_blank\">Freek Bes</a>. Under the alias \"Monospace\", I produce and release trance music. I am currently not signed to any record label - everything I release, I release independently.<br/><br/>Before May 2020, <a href=\"https://www.linkedin.com/in/amaro-berghout/\" target=\"_blank\">Amaro Berghout</a> also used to be a part of Monospace, but we've decided to split ways. Monospace is now just me. Amaro and I will continue to produce tracks, but he'll use his own artist name (<a href=\"https://open.spotify.com/artist/3FGKP6oIi0CvtOxMWTpi68\" target=\"blank\">The NGVirus</a>).<br/><br/>To see my full discography, just scroll down a bit!",
-			"image": null,
-			"countdown_to": "2020-05-16",
-			"countdown_reached_text": "Play now",
-			"countdown_reached_link": "music.php?r=subspace-dreams",
-			"countdown_enabled": false
+			"text": "My name is <a href=\"https://freekb.es/\" target=\"_blank\">Freek Bes</a>. Under the alias \"Monospace\", I produce and release trance music. I am currently not signed to any record label - everything I release, I release independently.<br/><br/>Before May 2020, <a href=\"https://www.linkedin.com/in/amaro-berghout/\" target=\"_blank\">Amaro Berghout</a> also used to be a part of Monospace, but we've decided to split ways. Monospace is now just me. Amaro and I will continue to produce tracks, but he'll use his own artist name (<a href=\"https://open.spotify.com/artist/3FGKP6oIi0CvtOxMWTpi68\" target=\"blank\">The NGVirus</a>).<br/><br/>To see my full discography, just scroll down a bit!<br><br><br><b>I'm releasing a brand new single soon!</b>",
+			"image": "images/coverart/mesospherictouch.jpg",
+			"countdown_to": "2021-11-29",
+			"countdown_reached_text": "I've released a brand new single! Check it out by clicking here.",
+			"countdown_reached_link": "music.php?r=mesospheric-touch",
+			"countdown_enabled": true
 		}
 	},
 	"music": {

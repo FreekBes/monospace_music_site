@@ -1,5 +1,48 @@
 [
 	{
+		"upc": "5059805566773",
+		"type": "single",
+		"title": "Little Light (Monospace Remix)",
+		"artists": "Toonross",
+		"coverart": "images/coverart/littlelightmsremix.jpg",
+		"background": null,
+		"release_date": "2022-01-21",
+		"platforms": {
+			"spotify": "2KTOJYjHRyrNqxh9rSvipG",
+			"youtube": "OLAK5uy_nPP40MqpolBCU_TZiJ0iJEFszSBmuoA-4"
+		},
+		"tracks": [
+			{
+				"isrc": "GX5MY2167897",
+				"title": "Little Light (Monospace Remix)",
+				"artists": "Toonross",
+				"coverart": "images/coverart/littlelightmsremix.jpg",
+				"background": null,
+				"release_date": "2022-01-21",
+				"duration": 179,
+				"explicit": false,
+				"platforms": {
+					"spotify": "2HSHoiK6esp7ZqY423y4Cz",
+					"youtube": "y1B8KuGctzY"
+				}
+			},
+			{
+				"isrc": "GX5MY2167916",
+				"title": "Little Light (Monospace Extended Remix)",
+				"artists": "Toonross",
+				"coverart": "images/coverart/littlelightmsremix.jpg",
+				"background": null,
+				"release_date": "2022-01-21",
+				"duration": 264,
+				"explicit": false,
+				"platforms": {
+					"spotify": "1QJyRlUuV5SRgeTzzw4OO3",
+					"youtube": "Q6SbeYXT7l4"
+				}
+			}
+		]
+	},
+	{
 		"upc": "5059962888299",
 		"type": "single",
 		"title": "Mesospheric Touch",
@@ -8,7 +51,7 @@
 		"background": null,
 		"release_date": "2021-11-29",
 		"platforms": {
-
+			"spotify": "0DcLnBQ5E6WDn4mED37O3B"
 		},
 		"tracks": [
 			{
@@ -20,7 +63,7 @@
 				"duration": 219,
 				"explicit": false,
 				"platforms": {
-
+					"spotify": "69NGTBb4J016vnxHDvlpMh"
 				}
 			},
 			{
@@ -32,47 +75,7 @@
 				"duration": 219,
 				"explicit": false,
 				"platforms": {
-					
-				}
-			}
-		]
-	},
-	{
-		"upc": null,
-		"type": "featured",
-		"title": "Little Light",
-		"artists": "Toonross",
-		"coverart": "images/coverart/littlelight.jpg",
-		"background": null,
-		"release_date": "2021-12-28",
-		"platforms": {
-			
-		},
-		"tracks": [
-			{
-				"isrc": null,
-				"title": "Little Light (Monospace Remix)",
-				"artists": "Toonross",
-				"coverart": "images/coverart/littlelightmsremix.jpg",
-				"background": null,
-				"release_date": "2021-12-28",
-				"duration": 179,
-				"explicit": false,
-				"platforms": {
-					
-				}
-			},
-			{
-				"isrc": null,
-				"title": "Little Light (Monospace Extended Remix)",
-				"artists": "Toonross",
-				"coverart": "images/coverart/littlelightmsremix.jpg",
-				"background": null,
-				"release_date": "2021-12-28",
-				"duration": 264,
-				"explicit": false,
-				"platforms": {
-					
+					"spotify": "5xUqFfS8AnFTgBhSFY6GUs"
 				}
 			}
 		]
@@ -86,6 +89,7 @@
 		"background": null,
 		"release_date": "2021-04-19",
 		"platforms": {
+			"spotify": "2dol6QNtJVUG8MNegaIeKz",
 			"bandcamp": "https://sponomace.bandcamp.com/album/intrusive-the-remixes"
 		},
 		"tracks": [
@@ -191,6 +195,7 @@
 				"duration": 367,
 				"explicit": false,
 				"platforms": {
+					"spotify": "4nxzhsmynRqxqG26cyr9Ys",
 					"bandcamp": "https://sponomace.bandcamp.com/track/attack-of-the-space-crusaders-unreleased-progressive-mix-2"
 				}
 			}
@@ -1227,7 +1232,7 @@
 		"background": null,
 		"release_date": "2017-12-05",
 		"platforms": {
-			
+
 		},
 		"tracks": [
 			{
