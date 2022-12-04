@@ -1,5 +1,71 @@
 [
 	{
+		"upc": 5063212282317,
+		"type": "ep",
+		"title": "BreadPong OST",
+		"artists": "Freek Bes",
+		"coverart": "images/coverart/breadpongost.jpg",
+		"background": null,
+		"release_date": "2022-12-08",
+		"platforms": {
+
+		},
+		"tracks": [
+			{
+				"isrc": "GX8LD2214231",
+				"title": "Lobby",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/breadpongost.jpg",
+				"background": null,
+				"release_date": "2022-12-08",
+				"duration": 166,
+				"explicit": false,
+				"platforms": {
+
+				}
+			},
+			{
+				"isrc": "GX8LD2221333",
+				"title": "Collapsing Cosmos (BreadPong Version)",
+				"artists": "Monospace & Freek Bes",
+				"coverart": "images/coverart/breadpongost.jpg",
+				"background": null,
+				"release_date": "2022-12-08",
+				"duration": 186,
+				"explicit": false,
+				"platforms": {
+
+				}
+			},
+			{
+				"isrc": "GX8LD2287715",
+				"title": "Game Win",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/breadpongost.jpg",
+				"background": null,
+				"release_date": "2022-12-08",
+				"duration": 114,
+				"explicit": false,
+				"platforms": {
+
+				}
+			},
+			{
+				"isrc": "GX8LD2258714",
+				"title": "Game Lose",
+				"artists": "Freek Bes",
+				"coverart": "images/coverart/breadpongost.jpg",
+				"background": null,
+				"release_date": "2022-12-08",
+				"duration": 144,
+				"explicit": false,
+				"platforms": {
+
+				}
+			}
+		]
+	},
+	{
 		"upc": "5059805566773",
 		"type": "single",
 		"title": "Little Light (Monospace Remix)",
